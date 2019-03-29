@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" height="57px" width="105px" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 105 57"><!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+ <title>match icon</title>
+ <desc>Created with Sketch.</desc>
+ <g id="•-Landing-Page" fill-rule="evenodd" fill="none">
+  <g id="MM_landing_updated" transform="translate(-333 -1396)">
+   <g id="match-icon" transform="translate(333 1396)">
+    <path id="Shape" fill="#1D71B8" d="m32.733 10.749c0-5.9387-4.803-10.749-10.733-10.749s-10.733 4.8103-10.733 10.749c0 5.939 4.803 10.749 10.733 10.749s10.733-4.81 10.733-10.749zm-32.733 26.873v18.645h44v-18.645c0-7.148-14.836-10.749-22-10.749s-22 3.601-22 10.749z"/>
+    <path id="Shape-Copy" fill="#1D71B8" d="m93.399 10.749c0-5.9387-4.802-10.749-10.732-10.749s-10.733 4.8103-10.733 10.749c0 5.939 4.803 10.749 10.733 10.749s10.732-4.81 10.732-10.749zm-32.732 26.873v18.645h44.003v-18.645c0-7.148-14.839-10.749-22.003-10.749s-22 3.601-22 10.749z"/>
+    <g id="Page-1" stroke="#1D71B8" stroke-width="5" transform="translate(52.006 20.633) rotate(45) translate(-7.5 -7.5)">
+     <path id="Stroke-1" d="m14.328 0.029117l-14.299 14.317"/>
+     <path id="Stroke-3" d="m14.328 14.346l-14.299-14.317"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

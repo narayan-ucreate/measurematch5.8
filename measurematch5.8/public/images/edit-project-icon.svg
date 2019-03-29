@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>edit-project-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="1.-Accepting-EOIs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="myProjectsNew--4" transform="translate(-1283.000000, -119.000000)" stroke="#686868">
+            <g id="Group-7" transform="translate(1284.000000, 116.000000)">
+                <g id="edit-project-icon" transform="translate(0.000000, 4.000000)">
+                    <path d="M4.57734,9.6 C4.57734,8.4396 3.63774,7.5 2.47734,7.5 C1.31694,7.5 0.37734,8.4396 0.37734,9.6 C0.37734,10.7592 1.31694,11.7 2.47734,11.7 C3.63774,11.7 4.57734,10.7592 4.57734,9.6 L4.57734,9.6 Z" id="Stroke-199"></path>
+                    <path d="M7.87734,6 L14.02254,2.3472 C13.68654,1.7766 12.85074,1.5612 12.27954,1.8972 L2.73414,7.5156" id="Stroke-200"></path>
+                    <path d="M4.57734,2.4 C4.57734,3.5592 3.63774,4.5 2.47734,4.5 C1.31694,4.5 0.37734,3.5592 0.37734,2.4 C0.37734,1.2396 1.31694,0.3 2.47734,0.3 C3.63774,0.3 4.57734,1.2396 4.57734,2.4 L4.57734,2.4 Z" id="Stroke-201"></path>
+                    <path d="M6.6117,5.23884 L14.0229,9.65184 C13.6863,10.22244 12.8505,10.43904 12.2793,10.10184 L2.7771,4.50024" id="Stroke-202"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

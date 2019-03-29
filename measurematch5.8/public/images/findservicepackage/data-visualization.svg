@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>data-visualization</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="•-Service-Packages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-237.000000, -28.000000)">
+            <g id="data-visualization" transform="translate(237.000000, 28.000000)">
+                <rect id="Rectangle-13-Copy-3" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+                <polyline id="Stroke-110" stroke="#1D71B8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="2.19927536 30.4995599 11.5498885 30.4995599 15.2901338 24.9230769 19.030379 34.2172153 26.5108696 23.0642493 32.1212375 36.076043 35.8614827 30.4995599 45.2120959 30.4995599"></polyline>
+                <path d="M45.2120959,37.9348706 C45.2120959,39.9870164 43.5402062,41.652526 41.4718506,41.652526 L5.93952062,41.652526 C3.87490524,41.652526 2.19927536,39.9870164 2.19927536,37.9348706 L2.19927536,11.9112832 C2.19927536,9.85913748 3.87490524,8.19362788 5.93952062,8.19362788 L41.4718506,8.19362788 C43.5402062,8.19362788 45.2120959,9.85913748 45.2120959,11.9112832 L45.2120959,37.9348706 L45.2120959,37.9348706 Z" id="Stroke-105" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M2.19927536,17.4877662 L45.2120959,17.4877662" id="Stroke-106" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M9.67976589,12.8406971 C9.67976589,13.3537335 9.26085842,13.7701109 8.74470457,13.7701109 C8.22855072,13.7701109 7.80964326,13.3537335 7.80964326,12.8406971 C7.80964326,12.3276606 8.22855072,11.9112832 8.74470457,11.9112832 C9.26085842,11.9112832 9.67976589,12.3276606 9.67976589,12.8406971 L9.67976589,12.8406971 Z" id="Stroke-107" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M15.2901338,12.8406971 C15.2901338,13.3537335 14.8712263,13.7701109 14.3550725,13.7701109 C13.8389186,13.7701109 13.4200111,13.3537335 13.4200111,12.8406971 C13.4200111,12.3276606 13.8389186,11.9112832 14.3550725,11.9112832 C14.8712263,11.9112832 15.2901338,12.3276606 15.2901338,12.8406971 L15.2901338,12.8406971 Z" id="Stroke-108" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M20.9005017,12.8406971 C20.9005017,13.3537335 20.4815942,13.7701109 19.9654404,13.7701109 C19.4492865,13.7701109 19.030379,13.3537335 19.030379,12.8406971 C19.030379,12.3276606 19.4492865,11.9112832 19.9654404,11.9112832 C20.4815942,11.9112832 20.9005017,12.3276606 20.9005017,12.8406971 L20.9005017,12.8406971 Z" id="Stroke-109" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="59px" height="79px" viewBox="0 0 59 79" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>project-under-review</title>
+    <desc>Created with Sketch.</desc>
+    <defs/>
+    <g id="1.-Accepting-EOIs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Project---awaiting-review" transform="translate(-835.000000, -263.000000)" stroke-width="2.5">
+            <g id="Group-4" transform="translate(584.000000, 264.000000)">
+                <g id="project-under-review" transform="translate(252.000000, 0.000000)">
+                    <polyline id="Stroke-3144" stroke="#1D71B8" points="7.17948718 62.974359 18.6666667 62.974359 28.5128205 53.1282051 38.3589744 62.974359 49.8461538 62.974359"/>
+                    <path d="M11.7595897,30.1538462 L45.2660513,30.1538462" id="Stroke-3145" stroke="#1D71B8"/>
+                    <path d="M49.8461538,17.025641 C49.8461538,28.8082051 40.2888205,38.3589744 28.5128205,38.3589744 C16.7236923,38.3589744 7.17948718,28.8082051 7.17948718,17.025641 L7.17948718,0.615384615 L49.8461538,0.615384615 L49.8461538,17.025641 L49.8461538,17.025641 Z" id="Stroke-3140" stroke="#424242"/>
+                    <path d="M49.8461538,59.6923077 C49.8461538,47.9130256 40.2888205,38.3589744 28.5128205,38.3589744 C16.7236923,38.3589744 7.17948718,47.9130256 7.17948718,59.6923077 L7.17948718,76.1025641 L49.8461538,76.1025641 L49.8461538,59.6923077 L49.8461538,59.6923077 Z" id="Stroke-3141" stroke="#424242"/>
+                    <path d="M0.615384615,0.615384615 L56.4102564,0.615384615" id="Stroke-3142" stroke="#424242"/>
+                    <path d="M0.615384615,76.1025641 L56.4102564,76.1025641" id="Stroke-3143" stroke="#424242"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

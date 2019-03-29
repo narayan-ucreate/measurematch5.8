@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>contracts-emptyState</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="•-Service-Packages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="MM-Expert-MyPackages_Awaiting_Example_1.3" transform="translate(-595.000000, -285.000000)" stroke-width="2">
+            <g id="Group" transform="translate(284.000000, 0.000000)">
+                <g id="Group-3" transform="translate(0.000000, 218.000000)">
+                    <g id="Group-2" transform="translate(158.000000, 68.000000)">
+                        <g id="contracts-emptyState" transform="translate(154.000000, 0.000000)">
+                            <path d="M79.3162393,58.8034188 C79.3162393,70.1299145 70.1333333,79.3162393 58.8034188,79.3162393 C47.4700855,79.3162393 38.2905983,70.1299145 38.2905983,58.8034188 C38.2905983,47.4735043 47.4700855,38.2905983 58.8034188,38.2905983 C70.1333333,38.2905983 79.3162393,47.4735043 79.3162393,58.8034188 L79.3162393,58.8034188 Z" id="Stroke-887" stroke="#424242"></path>
+                            <path d="M54.0492308,63.317265 C54.0492308,65.942906 56.1791453,68.0728205 58.8047863,68.0728205 C61.4270085,68.0728205 63.5569231,65.942906 63.5569231,63.317265 C63.5569231,60.6916239 61.4270085,58.5548718 58.8047863,58.5548718 C56.1791453,58.5548718 54.0492308,56.4317949 54.0492308,53.802735 C54.0492308,51.177094 56.1791453,49.0471795 58.8047863,49.0471795 C61.4270085,49.0471795 63.5569231,51.177094 63.5569231,53.802735" id="Stroke-888" stroke="#1D71B8" stroke-linecap="round"></path>
+                            <path d="M58.8034188,68.071453 L58.8034188,71.237265" id="Stroke-889" stroke="#1D71B8" stroke-linecap="round"></path>
+                            <path d="M58.8034188,45.8758974 L58.8034188,49.048547" id="Stroke-890" stroke="#1D71B8" stroke-linecap="round"></path>
+                            <path d="M10.9401709,21.1965812 L26.3247863,21.1965812" id="Stroke-891" stroke="#424242" stroke-linecap="round"></path>
+                            <path d="M10.9401709,31.4529915 L38.2905983,31.4529915" id="Stroke-892" stroke="#424242" stroke-linecap="round"></path>
+                            <path d="M10.9401709,41.7094017 L31.4529915,41.7094017" id="Stroke-893" stroke="#424242" stroke-linecap="round"></path>
+                            <path d="M10.9401709,51.965812 L28.034188,51.965812" id="Stroke-894" stroke="#424242" stroke-linecap="round"></path>
+                            <polyline id="Stroke-895" stroke="#424242" stroke-linecap="round" points="34.8717949 72.4786325 0.683760684 72.4786325 0.683760684 0.683760684 38.2905983 0.683760684 55.3846154 17.7777778 55.3846154 31.4529915"></polyline>
+                            <polyline id="Stroke-896" stroke="#424242" stroke-linecap="round" points="38.2905983 0.683760684 38.2905983 17.7777778 55.3846154 17.7777778"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

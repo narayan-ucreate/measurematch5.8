@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="116px" height="116px" viewBox="0 0 116 116" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon-sideHustler</title>
+    <desc>Created with Sketch.</desc>
+    <g id="•-Onboarding" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Expert-Onboarding-•-Side-Hustler" transform="translate(-662.000000, -128.000000)" stroke-width="3">
+            <g id="icon-sideHustler" transform="translate(664.000000, 130.000000)">
+                <path d="M111.583333,82.5833333 C111.583333,98.5961667 98.601,111.583333 82.5833333,111.583333 C66.5656667,111.583333 53.5833333,98.5961667 53.5833333,82.5833333 C53.5833333,66.5705 66.5656667,53.5833333 82.5833333,53.5833333 C98.601,53.5833333 111.583333,66.5705 111.583333,82.5833333 L111.583333,82.5833333 Z" id="Stroke-743" stroke="#36A9E1"></path>
+                <path d="M62.1504167,103.0119 L103.021083,62.1460667" id="Stroke-744" stroke="#36A9E1"></path>
+                <path d="M46.3333333,101.916667 L10.0833333,101.916667 C4.76666667,101.916667 0.416666667,97.5666667 0.416666667,92.25 L0.416666667,14.9166667 L19.75,14.9166667" id="Stroke-745" stroke="#424242" stroke-linecap="round"></path>
+                <polyline id="Stroke-746" stroke="#424242" stroke-linecap="round" points="43.9166667 92.25 10.0833333 92.25 10.0833333 24.5833333 19.75 24.5833333"></polyline>
+                <polyline id="Stroke-747" stroke="#424242" stroke-linecap="round" points="77.75 43.9166667 77.75 14.9166667 58.4166667 14.9166667"></polyline>
+                <path d="M48.75,10.0833333 C48.75,6.08133333 46.3333333,0.416666667 39.0833333,0.416666667 C31.8333333,0.416666667 29.4166667,6.08133333 29.4166667,10.0833333 L19.75,10.0833333 L19.75,29.4166667 L58.4166667,29.4166667 L58.4166667,10.0833333 L48.75,10.0833333 L48.75,10.0833333 Z" id="Stroke-748" stroke="#424242" stroke-linecap="round"></path>
+                <polyline id="Stroke-749" stroke="#424242" stroke-linecap="round" points="58.4166667 24.5833333 68.0833333 24.5833333 68.0833333 43.9166667"></polyline>
+                <path d="M24.5833333,43.9166667 L48.75,43.9166667" id="Stroke-750" stroke="#424242" stroke-linecap="round"></path>
+                <path d="M24.5833333,53.5833333 L48.75,53.5833333" id="Stroke-751" stroke="#424242" stroke-linecap="round"></path>
+                <path d="M24.5833333,63.25 L48.75,63.25" id="Stroke-752" stroke="#424242" stroke-linecap="round"></path>
+                <path d="M24.5833333,72.9166667 L39.0833333,72.9166667" id="Stroke-753" stroke="#424242" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

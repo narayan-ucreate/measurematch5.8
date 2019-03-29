@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>my-service-packages</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="BrowseExperts-Fixed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-481.000000, -305.000000)" stroke-linejoin="round">
+        <g id="my-service-packages" transform="translate(482.000000, 306.000000)" stroke="#424242">
+            <polygon id="Stroke-1074" stroke-linecap="round" points="10.4166667 8.75 0.416666667 4.58333333 0.416666667 15.4166667 10.4166667 19.5833333"></polygon>
+            <polygon id="Stroke-1075" stroke-linecap="round" points="10.4166667 8.75 19.5833333 4.58333333 19.5833333 15.4166667 10.4166667 19.5833333"></polygon>
+            <polyline id="Stroke-1076" stroke-linecap="round" points="0.416666667 4.58333333 10 0.416666667 19.5833333 4.58333333"></polyline>
+            <path d="M5.98958333,2.16225 L15.2404167,6.56058333" id="Stroke-1077"></path>
+            <polygon id="Stroke-1078" stroke-linecap="round" points="7.91666667 10.8333333 2.91666667 8.33333333 2.91666667 12.5 7.91666667 15"></polygon>
+        </g>
+    </g>
+</svg>

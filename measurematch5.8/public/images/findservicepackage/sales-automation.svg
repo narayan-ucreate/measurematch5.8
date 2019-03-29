@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>sales-automation</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="•-Service-Packages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-420.000000, -28.000000)">
+            <g id="sales-automation" transform="translate(420.000000, 28.000000)">
+                <rect id="Rectangle-13-Copy-6" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+                <path d="M13.8332444,15.4444444 C17.2696889,15.4444444 20.0554667,12.6586667 20.0554667,9.22222222 C20.0554667,5.78577778 17.2696889,3 13.8332444,3 C10.3968,3 7.61102222,5.78577778 7.61102222,9.22222222 C7.61102222,12.6586667 10.3968,15.4444444 13.8332444,15.4444444 L13.8332444,15.4444444 Z" id="Stroke-3970" stroke="#424242" stroke-width="2" stroke-linejoin="round"></path>
+                <path d="M23.6110222,19 L4.05546667,19 C4.05546667,26.2337778 6.9728,30.4524444 10.2776889,32.3333333 L10.2776889,43.8888889 L17.3888,43.8888889 L17.3888,32.3333333 C20.6919111,30.4524444 23.6110222,26.2337778 23.6110222,19 L23.6110222,19 Z" id="Stroke-3971" stroke="#424242" stroke-width="2" stroke-linejoin="round"></path>
+                <polygon id="Stroke-3972" stroke="#1D71B8" stroke-width="2" stroke-linejoin="round" points="14.7221333 19 12.9443556 19 12.0554667 29.6666667 13.8332444 31.4444444 15.6110222 29.6666667"></polygon>
+                <polyline id="Stroke-3973" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="27.1111111 29.6666667 44 29.6666667 44 4.77777778 25.3333333 4.77777778"></polyline>
+                <path d="M28.0364444,26.1111111 L38.6302222,26.1111111" id="Stroke-3974" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M31.5555556,26.1111111 L31.5555556,19" id="Stroke-3975" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M35.1111111,26.1111111 L35.1111111,15.4444444" id="Stroke-3976" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M38.6666667,26.1111111 L38.6666667,10.1111111" id="Stroke-3977" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

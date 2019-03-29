@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/32px/line_heart@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tile-(FindAMatch)" transform="translate(-171.000000, -22.000000)">
+            <g id="Group">
+                <g transform="translate(165.000000, 16.000000)">
+                    <g id="icon/20px/stealthLine" transform="translate(16.000000, 16.000000) rotate(-180.000000) translate(-16.000000, -16.000000) translate(6.000000, 6.000000)">
+                        <g id="icons/20px/stealthLine" transform="translate(10.000000, 10.000000) rotate(-180.000000) translate(-10.000000, -10.000000) ">
+                            <rect id="Rectangle-7" fill="#FFFFFF" x="0" y="0" width="20" height="20"></rect>
+                            <path d="M17.8265634,12.3935411 L12.1873443,6.87691371 L10.0001983,4.7373144 L7.81265572,6.87691371 L2.17343663,12.3935411 C1.94218779,12.6197628 1.94218779,12.9903317 2.17343663,13.2165534 L4.36097924,15.3565408 L7.16690425,12.6116141 L10.0001983,15.3829268 L12.8330958,12.6116141 L15.6390208,15.3565408 L17.8265634,13.2165534 C18.0578122,12.9903317 18.0578122,12.6197628 17.8265634,12.3935411" id="Fill-32" stroke="#1D71B8" stroke-width="1.5" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

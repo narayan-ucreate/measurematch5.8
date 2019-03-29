@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="16px" viewBox="0 0 21 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>hide-package</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="•-Service-Packages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="MM-Expert-Edit-Package-2" transform="translate(-1027.000000, -219.000000)" stroke="#1D71B8">
+            <g id="Package-Options" transform="translate(1004.000000, 156.000000)">
+                <g id="hide-package" transform="translate(24.000000, 63.000000)">
+                    <path d="M15.61408,5.03048 C17.56528,6.44168 18.79968,8.00008 18.79968,8.00008 C18.79968,8.00008 14.68128,13.20008 9.59968,13.20008 C8.76848,13.20008 7.96368,13.06168 7.19808,12.82888" id="Stroke-194"></path>
+                    <path d="M3.57424,10.96096 C1.62944,9.55216 0.39984,8.00016 0.39984,8.00016 C0.39984,8.00016 4.51904,2.80016 9.59984,2.80016 C10.28784,2.80016 10.95824,2.89536 11.60304,3.06016" id="Stroke-195"></path>
+                    <path d="M6.4,8 C6.4,6.232 7.8328,4.8 9.6,4.8" id="Stroke-196"></path>
+                    <path d="M12.8,8 C12.8,9.768 11.3672,11.2 9.6,11.2" id="Stroke-197"></path>
+                    <path d="M17.4,0.2 L1.8,15.8" id="Stroke-198"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

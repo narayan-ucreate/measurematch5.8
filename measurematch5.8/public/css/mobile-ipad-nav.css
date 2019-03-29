@@ -1,0 +1,116 @@
+.device-menu{display: none;}
+.logo-md{display:none;}
+.logo-lg, .navbar-brand > img.logo-lg{display: block;}
+.logo-md, .navbar-brand > img.logo-md{display: none; margin-top:0px; margin-left: 15px;}
+
+@media  screen and (max-width: 1024px){
+  
+.navbar-inverse .navbar-nav .open .dropdown-menu > .active > a,
+.navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:focus,
+.navbar-inverse .navbar-nav .open .dropdown-menu > .active > a:hover{ background-color: transparent; color: #424242 }
+.logo-lg, .navbar-brand > img.logo-lg{display: none;}
+.logo-md, .navbar-brand > img.logo-md{display: block; margin-top:0px; margin-left:0;}
+.navbar{min-height: 55px;}
+.logo-md{display: block !important; margin-top:9px;}
+.logo{ margin: 7px 0 0 0}
+.navbar-inverse .navbar-nav > li > a .caret{background:url("../images/navigation-chevron.svg") no-repeat 3px 3px; height: 16px; width: 16px; border:0; }
+.navbar-inverse .navbar-nav > li.open > a .caret{background:url("../images/navigation-chevron-open.svg") no-repeat 3px 3px;}
+nav.sidebar .navbar-nav > li.message-icon{ margin-top:0px !important;  margin-bottom:0 !important;}
+nav.sidebar .navbar-nav > li.message-icon.support-menu{border:0 !important; border-bottom: 1px solid #e5e5e5 !important; }
+nav.sidebar .navbar-nav > li.myprofile-li{ border-top: 1px solid #e5e5e5 !important;  }
+.top-user-type::before{content: "" !important;}
+.top-user-type{margin:17px 0 0 15px !important}
+.navbar-nav{margin: 6.25px 0;}
+body nav.nav-mobile-view-buyer .nav.navbar-nav.support-menu {
+    margin: 2px 0 0 0;
+    right: 0;
+}
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:focus, .navbar-inverse .navbar-nav > .open > a:hover{background-color:transparent; color: #424242}
+nav.sidebar .navbar-nav > li.support-menu{ border-top: 1px solid #e5e5e5; right: 0}
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover{color: #262626}
+nav.sidebar .navbar-nav > li.profile-icon{ margin-bottom: 10px; }
+.navbar-inverse .navbar-nav > li > a .glyphicon-question-sign{display: none;}
+.feedback-panel::after, .feedback-panel::before{display: none;}
+.feedback-panel h2{margin-top: 0; font-family:gilroybold; font-size: 24px !important; margin-bottom:10px; width: 100%; float: left;}
+.feedback-panel h3{font-family:gilroyregular !important; font-size: 15px !important; margin-top:0px !important}
+.feedback-panel p{ font-size: 15px !important; }
+.feedback-panel .btn-primary{ font-size: 15px; margin-bottom: 5px; margin-top: 15px !important; min-width: 120px; }
+nav.sidebar .navbar-nav .open .dropdown-menu li{ border-bottom: 1px solid #e5e5e5; }
+nav.sidebar .navbar-nav .open .dropdown-menu li:last-child{border: 0}
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a{ padding:12px 55px; }
+#wrapper .unread-count{margin:5px -11px 0 0 !important}
+.navbar-nav{ width: 100%; }
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{ border: none; }
+#wrapper{ padding-left: 0 }
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.navbar-inverse .navbar-nav > .active > a:hover{background: #fbfcfe  !important; box-shadow: 2px 0 0 0 #1d71b8 inset, 0 0px 0 0 rgba(0, 0, 0, 0.16) inset !important;color: #424242;font-family: gilroybold; }
+.device-menu{ margin-top: -66px; }
+.device-menu .navbar-collapse{ background-color: #fff; position:fixed; top:50px; width: 100%; left: 0;}
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a{color: #424242;font-family: gilroybold; font-size: 15px;}
+.navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-text{ color: #424242; font-family: gilroybold; font-size: 18px; line-height: 24px; opacity:1; padding:12px 40px 12px 20px; position: relative; width: 100%;}
+.navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover{color: #424242;}
+nav.sidebar .navbar-nav > li{ margin-top: 0 !important; }
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover{background:#fff; }
+.navbar-inverse .navbar-toggle .icon-bar{ background-color: #333; }
+.navbar-inverse{ background:none; border: 0}
+.navbar-inverse .navbar-toggle{ border: 0; }
+.navbar-collapse.collapse {display: none !important;}
+.navbar-collapse.collapse.in {display: block !important;    z-index: 999;}
+.navbar-header .collapse, .navbar-toggle {display:block !important;}
+.navbar-header{float:none;}
+nav.sidebar .navbar-nav .open .dropdown-menu>li>a:hover, nav.sidebar .navbar-nav .open .dropdown-menu>li>a:focus {background-color: transparent;}
+nav:hover .forAnimate{opacity: 1;}
+section{padding-left: 15px;}
+.device-menu{display:block;}
+.left-menu{display: none;}
+/* remove outer padding */
+.main .row{padding: 0px;margin: 0px;}
+/*Remove rounded coners*/
+nav.sidebar.navbar {border-radius:0px;}
+nav.sidebar, .main{-webkit-transition: margin 200ms ease-out; -moz-transition: margin 200ms ease-out; -o-transition: margin 200ms ease-out; transition: margin 200ms ease-out;}
+/* Add gap to nav and right windows.*/
+.main{padding: 10px 10px 0 10px;}
+/* .....NavBar: Icon only with coloring/layout.....*/
+/*small/medium side display*/
+/*Allow main to be next to Nav*/
+.main{position: absolute;width: calc(100% - 40px); /*keeps 100% minus nav size*/margin-left: 40px;float: right;}
+/*lets nav bar to be showed on mouseover*/
+nav.sidebar:hover + .main{margin-left: 200px;}
+/*Center Brand*/
+nav.sidebar.navbar.sidebar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {margin-left: 0px;}
+/*Center Brand*/
+nav.sidebar .navbar-brand, nav.sidebar .navbar-header{text-align: center;padding: 0 10px;width:auto;margin-left: 0px;float: right;position: fixed;right: 0; top: 0;z-index:999;}
+/*Center Icons*/
+nav.sidebar a{padding-right:13px;}
+/*adds border top to first nav box */
+nav.sidebar .navbar-nav > li:first-child{border-top: 1px #e5e5e5 solid;}
+/*adds border to bottom nav boxes*/
+nav.sidebar .navbar-nav > li{border-bottom: 1px #e5e5e5 solid;}
+/* Colors/style dropdown box*/
+nav.sidebar .navbar-nav .open .dropdown-menu {border-top: 1px solid #e5e5e5;position: static;float:left;width:100%;margin-top: 0;background-color: transparent;-webkit-box-shadow: none;box-shadow: none;padding: 0;}
+/*allows nav box to use 100% width*/
+nav.sidebar .navbar-collapse, nav.sidebar .container-fluid{padding:0 0px 0 0px;}
+/*colors dropdown box text */
+/*gives sidebar width/height*/
+nav.sidebar{width:100%; margin-left:0; float:left;margin-bottom:0px;}
+/*give sidebar 100% width;*/
+nav.sidebar li{width:100% !important;float: left;}
+/* Move nav to full on mouse over*/
+nav.sidebar:hover{margin-left:0px;}
+/*for hiden things when navbar hidden*/
+.forAnimate{opacity:0;}
+.feedback-panel{
+   right: 0;
+   width: 100% !important;
+   left: 0 !important;;
+   padding: 20px 40px;
+   border: medium none !important;
+   box-shadow: none !important;
+   position: relative;
+   top: 0;
+}
+.feedback-panel p.thankyou-for-support{ background: #12bf79; font-size:15px !important; color: #fff; padding: 20px; border-radius: 3px; font-family: gilroybold; float: left; width: 100%; margin:0 0 15px;}
+.navbar-inverse .device-menu-open .navbar-toggle{background:url("../images/cross-icon.svg") no-repeat 0px 5px; background-color:none; display: block; width:16px; height:22px; top: 3px; left: -5px;}
+.navbar-inverse .device-menu-open span.icon-bar{display: none;}
+}

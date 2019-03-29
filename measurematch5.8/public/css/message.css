@@ -1,0 +1,52 @@
+@font-face{font-family:gilroyblack;src:url(../fonts/gilroy-black-webfont.eot);src:url(../fonts/gilroy-black-webfont.eot?#iefix) format('embedded-opentype'),url(../fonts/gilroy-black-webfont.woff2) format('woff2'),url(../fonts/gilroy-black-webfont.woff) format('woff'),url(../fonts/gilroy-black-webfont.ttf) format('truetype'),url(../fonts/gilroy-black-webfont.svg#gilroyblack) format('svg');font-weight:400;font-style:normal}@font-face{font-family:gilroyregular;src:url(../fonts/gilroy-regular-webfont.eot);src:url(../fonts/gilroy-regular-webfont.eot?#iefix) format('embedded-opentype'),url(../fonts/gilroy-regular-webfont.woff2) format('woff2'),url(../fonts/gilroy-regular-webfont.woff) format('woff'),url(../fonts/gilroy-regular-webfont.ttf) format('truetype'),url(../fonts/gilroy-regular-webfont.svg#gilroyregular) format('svg');font-weight:400;font-style:normal}@font-face{font-family:gilroybold;src:url(../fonts/gilroy-bold-webfont.eot);src:url(../fonts/gilroy-bold-webfont.eot?#iefix) format('embedded-opentype'),url(../fonts/gilroy-bold-webfont.woff2) format('woff2'),url(../fonts/gilroy-bold-webfont.woff) format('woff'),url(../fonts/gilroy-bold-webfont.ttf) format('truetype'),url(../fonts/gilroy-bold-webfont.svg#gilroybold) format('svg');font-weight:400;font-style:normal}.message-sender .sender-chat-panel{line-height:19px;padding:10px;border-radius:2px;margin:0 10px 0 0}.message-receiver h4,.message-sender h4{font-size:14px;color:#424242;letter-spacing:0;line-height:12px;font-family:gilroybold;display:block;padding:0 0 5px;margin:0}.message-receiver p,.message-sender p{font-size:14px;color:#424242;letter-spacing:0;line-height:19px;margin:0;white-space:pre-line;word-wrap:break-word}.message-receiver .receiver-chat-panel{padding:10px;margin:0 0 0 10px;border-radius:2px}.message-sender-container{width:90%;clear:both;margin:0;float:right}.message-receiver-container{width:90%;clear:both;float:left;margin:0}.auto-message-panel .message-receiver-container{margin: 0 auto; float: none;; width: 85%;} .send-message .disabled{cursor:not-allowed}.one-to-one-chat{width:100%;float:left;padding:0 10px}#file-upload{width:auto;float:right;margin:5px 0 0;font-size:12px}.buyer-profile-panel,.message-contianer{width:100%;float:left}.message-white-box{background:#FFF;box-shadow:0 2px 4px 0 rgba(0,0,0,.12);border-radius:2px;padding:0}.padding-right-0{padding-right:0!important}.padding-left-0{padding-left:0!important}.message-outer-border{border:1px solid #e3e3e3}.scrollbar{overflow:auto;height:500px}.chat-top-panel{height:40px}.aligner,.expert-profile-pannel{height:100%}.aligner{display:flex;flex-direction:column}.aligner-item{display:flex;-webkit-box-orient:vertical;height:100%;align-items:center;-webkit-box-pack:center;justify-content:center}.aligner-middle-top{-webkit-box-flex:1;display:block;flex:1;text-align:center}.aligner-item-bottom{align-self:flex-end}.no-message-panel h5{font-size:16px;font-family:gilroybold}.no-message-panel{margin-top:-50px}.message-receiver-outer-container,.message-sender-outer-container{width:100%;float:left;margin:0 0 10px}.first-automated-message p{white-space:normal}@media only screen and (min-device-width:414px) and (max-device-width:736px) and (orientation:portrait) and (-webkit-min-device-pixel-ratio:3){.text-bx-bg textarea.messagebox{width:93%}}@media only screen and (max-device-width:640px),only screen and (max-device-width:667px),only screen and (max-width:480px){.text-bx-bg textarea.messagebox{width:93%}}@media only screen and (min-device-width:414px) and (max-device-width:736px) and (orientation:landscape) and (-webkit-min-device-pixel-ratio:3){.text-bx-bg textarea.messagebox{width:93%}}@media only screen and (min-device-width:320px) and (max-device-width:568px) and (-webkit-min-device-pixel-ratio:2) and (orientation:landscape){.text-bx-bg textarea.messagebox{width:91%}}@media (max-width:480px){.message-right-pannel{padding:0;margin:10px 0 0}.text-bx-bg textarea.messagebox{width:100%}}@media (max-width:320px){.text-bx-bg textarea.messagebox{width:80%}}
+
+
+.message-receiver .chat-vewproposal, .message-sender .chat-vewproposal{
+    width: 100%;
+    float: left;
+    background: #f7f7f7;
+    padding: 0;
+}
+
+.chat-vewproposal .message-head{
+    height: 45px;
+    line-height: 45px;
+    padding: 16px 16px 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.chat-vewproposal-body {
+    width: 100%;
+    float: left;
+    padding: 16px 16px 0;
+}
+
+.chat-vewproposal-body .box-style {
+    float: left;
+    width: 46%;
+    margin: 0 0 16px;
+    border: none;
+}
+
+.chat-vewproposal-body p{
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.chat-vewproposal .contract-process-btn-panel {
+    width: auto;
+    text-align: left;
+    margin: 0px;
+    padding: 0 16px 16px;
+}
+
+p.msg-text.accepted-proposal-text {
+    background: #fff;
+    border: 1px solid #ddd;
+    color: #686868;
+    font-style: italic;
+    background-image: url(../images/proposal-accepted.svg);
+    background-repeat: no-repeat;
+    background-position: 10px 7px;
+    padding:8px 8px 8px 40px;
+}

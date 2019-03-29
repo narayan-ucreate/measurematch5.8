@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="33px" viewBox="0 0 34 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>no-of-buyers-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="•-Service-Packages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="MM_Buyer_findAServicePackage_1.3" transform="translate(-948.000000, -237.000000)">
+            <g id="no-of-buyers-icon" transform="translate(948.000000, 237.000000)">
+                <polygon id="Stroke-4175" stroke="#1D71B8" points="25.7391304 18.0869565 27.8163478 22.9565217 32.685913 22.9565217 28.512 26.432 30.5989565 32 25.7293913 28.5245217 20.8598261 32 22.9467826 26.432 18.7728696 22.9565217 23.6424348 22.9565217"></polygon>
+                <path d="M9.04347826,26.4326957 C9.04347826,27.586087 9.97843478,28.5196522 11.1304348,28.5196522 C12.2838261,28.5196522 13.2173913,27.586087 13.2173913,26.4326957 C13.2173913,25.2806957 12.2838261,24.3457391 11.1304348,24.3457391 C9.97843478,24.3457391 9.04347826,25.2806957 9.04347826,26.4326957 L9.04347826,26.4326957 Z" id="Stroke-4176" stroke="#424242" stroke-linecap="round"></path>
+                <polyline id="Stroke-4177" stroke="#424242" stroke-linecap="round" points="0.695652174 0.695652174 5.56521739 0.695652174 11.1304348 24.3478261 16.6956522 24.3478261"></polyline>
+                <polyline id="Stroke-4178" stroke="#424242" stroke-linecap="round" points="30.5869913 15.3682087 32.6962087 9.04333913 7.53029565 9.04333913"></polyline>
+                <path d="M10.1480348,20.173913 L16.6607304,20.173913" id="Stroke-4179" stroke="#424242" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

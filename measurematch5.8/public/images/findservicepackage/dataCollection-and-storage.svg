@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>dataCollection-and-storage</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="•-Service-Packages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-115.000000, -28.000000)">
+            <g id="dataCollection-and-storage" transform="translate(115.000000, 28.000000)">
+                <rect id="Rectangle-13-Copy" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+                <polygon id="Stroke-4871" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="2 23 46 23 46 12 2 12"></polygon>
+                <polyline id="Stroke-4872" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="2 12 13.4782609 2 34.5217391 2 46 12"></polyline>
+                <path d="M29,17 C29,17.552 28.552,18 28,18 C27.448,18 27,17.552 27,17 C27,16.448 27.448,16 28,16 C28.552,16 29,16.448 29,17 L29,17 Z" id="Stroke-4873" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M35,17 C35,17.552 34.552,18 34,18 C33.448,18 33,17.552 33,17 C33,16.448 33.448,16 34,16 C34.552,16 35,16.448 35,17 L35,17 Z" id="Stroke-4874" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M40,17 C40,17.552 39.552,18 39,18 C38.448,18 38,17.552 38,17 C38,16.448 38.448,16 39,16 C39.552,16 40,16.448 40,17 L40,17 Z" id="Stroke-4875" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M10,17 C10,18.106 9.106,19 8,19 C6.896,19 6,18.106 6,17 C6,15.896 6.896,15 8,15 C9.106,15 10,15.896 10,17 L10,17 Z" id="Stroke-4876" stroke="#1D71B8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polyline id="Stroke-4877" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="2 23 2 34 46 34 46 23"></polyline>
+                <path d="M29,29 C29,29.552 28.552,30 28,30 C27.448,30 27,29.552 27,29 C27,28.448 27.448,28 28,28 C28.552,28 29,28.448 29,29 L29,29 Z" id="Stroke-4878" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M35,29 C35,29.552 34.552,30 34,30 C33.448,30 33,29.552 33,29 C33,28.448 33.448,28 34,28 C34.552,28 35,28.448 35,29 L35,29 Z" id="Stroke-4879" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M40,29 C40,29.552 39.552,30 39,30 C38.448,30 38,29.552 38,29 C38,28.448 38.448,28 39,28 C39.552,28 40,28.448 40,29 L40,29 Z" id="Stroke-4880" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M10,29 C10,30.106 9.106,31 8,31 C6.896,31 6,30.106 6,29 C6,27.896 6.896,27 8,27 C9.106,27 10,27.896 10,29 L10,29 Z" id="Stroke-4881" stroke="#1D71B8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M46,35 L46,42.3333333 C46,44.3573333 44.285913,46 42.173913,46 L5.82608696,46 C3.71408696,46 2,44.3573333 2,42.3333333 L2,35" id="Stroke-4882" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M29,40 C29,40.552 28.552,41 28,41 C27.448,41 27,40.552 27,40 C27,39.448 27.448,39 28,39 C28.552,39 29,39.448 29,40 L29,40 Z" id="Stroke-4883" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M35,40 C35,40.552 34.552,41 34,41 C33.448,41 33,40.552 33,40 C33,39.448 33.448,39 34,39 C34.552,39 35,39.448 35,40 L35,40 Z" id="Stroke-4884" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M40,40 C40,40.552 39.552,41 39,41 C38.448,41 38,40.552 38,40 C38,39.448 38.448,39 39,39 C39.552,39 40,39.448 40,40 L40,40 Z" id="Stroke-4885" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M10,40 C10,41.106 9.106,42 8,42 C6.896,42 6,41.106 6,40 C6,38.896 6.896,38 8,38 C9.106,38 10,38.896 10,40 L10,40 Z" id="Stroke-4886" stroke="#1D71B8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_schedule</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="•-Buyer-overview" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MM_Buyer_Dash_Full" transform="translate(-927.000000, -179.000000)" fill="#BB5A6B">
+            <g id="Group" transform="translate(926.000000, 120.000000)">
+                <g id="ic_schedule" transform="translate(0.000000, 58.000000)">
+                    <path d="M7.99333333,1.33333333 C4.31333333,1.33333333 1.33333333,4.32 1.33333333,8 C1.33333333,11.68 4.31333333,14.6666667 7.99333333,14.6666667 C11.68,14.6666667 14.6666667,11.68 14.6666667,8 C14.6666667,4.32 11.68,1.33333333 7.99333333,1.33333333 L7.99333333,1.33333333 Z M8,13.3333333 C5.05333333,13.3333333 2.66666667,10.9466667 2.66666667,8 C2.66666667,5.05333333 5.05333333,2.66666667 8,2.66666667 C10.9466667,2.66666667 13.3333333,5.05333333 13.3333333,8 C13.3333333,10.9466667 10.9466667,13.3333333 8,13.3333333 L8,13.3333333 Z" id="Shape"></path>
+                    <polygon id="Shape" points="8.33333333 4.66666667 7.33333333 4.66666667 7.33333333 8.66666667 10.8333333 10.7666667 11.3333333 9.94666667 8.33333333 8.16666667"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="10px" viewBox="0 0 18 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>dollarBill_ic</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="16" height="8" rx="0.600000024"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="18" height="10">
+            <rect x="-1" y="-1" width="18" height="10" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <circle id="path-3" cx="8" cy="4" r="2"></circle>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="6" height="6">
+            <rect x="5" y="1" width="6" height="6" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-2261.000000, -642.000000)">
+            <g id="dollarBill_ic" transform="translate(2258.000000, 635.000000)">
+                <g id="Group-2" transform="translate(4.000000, 8.000000)">
+                    <use id="Rectangle-3" stroke="#444444" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                    <rect id="Rectangle-20" fill="#444444" x="4" y="6" width="8" height="1" rx="0.5"></rect>
+                    <rect id="Rectangle-20-Copy" fill="#444444" x="4" y="1" width="8" height="1" rx="0.5"></rect>
+                    <use id="Oval-7" stroke="#424242" mask="url(#mask-4)" stroke-width="2" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

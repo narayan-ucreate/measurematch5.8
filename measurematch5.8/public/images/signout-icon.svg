@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>signout-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Buyer--ApprovedDetail" transform="translate(-1218.000000, -52.000000)" stroke="#1D71B8" stroke-width="1.5">
+            <g id="SignOut" transform="translate(1161.000000, 51.000000)">
+                <g id="signout-icon" transform="translate(58.000000, 2.000000)">
+                    <polyline id="Stroke-1812" points="9 12.7272727 9 15.6363636 0.333333333 15.6363636 0.333333333 0.363636364 9 0.363636364 9 3.27272727"/>
+                    <path d="M3.66666667,8.36363636 L15.6666667,8.36363636" id="Stroke-1813"/>
+                    <polyline id="Stroke-1814" points="12.3333333 4.72727273 15.6666667 8.36363636 12.3333333 12"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

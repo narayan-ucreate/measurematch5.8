@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>vendor-website</title>
+    <desc>Created with Sketch.</desc>
+    <g id="•-Vendors" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Vendor-•-CreateHub-•-3.1" transform="translate(-919.000000, -483.000000)" stroke="#878787">
+            <g id="vendor-website" transform="translate(920.000000, 484.000000)">
+                <path d="M11,13 C11,13.552 10.552,14 10,14 C9.448,14 9,13.552 9,13 C9,12.448 9.448,12 10,12 C10.552,12 11,12.448 11,13 L11,13 Z" id="Stroke-7362" stroke-linecap="round"/>
+                <path d="M15.6080667,15.0032667 C15.4227333,15.5226 14.8494,15.7946 14.3300667,15.6079333 C13.8100667,15.4226 13.5387333,14.8499333 13.7254,14.3292667 C13.9114,13.8099333 14.4834,13.5392667 15.0034,13.7246 C15.5234,13.9106 15.7940667,14.4832667 15.6080667,15.0032667 L15.6080667,15.0032667 Z" id="Stroke-7363" stroke-linecap="round"/>
+                <path d="M15.5612,10.2194 C15.8078667,10.7134 15.6078667,11.3147333 15.1132,11.5614 C14.6198667,11.8080667 14.0192,11.6074 13.7718667,11.1134 C13.5252,10.6200667 13.7258667,10.0187333 14.2198667,9.77206667 C14.7138667,9.5254 15.3145333,9.72606667 15.5612,10.2194 L15.5612,10.2194 Z" id="Stroke-7364" stroke-linecap="round"/>
+                <path d="M10.8938667,12.5527333 L13.7725333,11.1134" id="Stroke-7365" stroke-linecap="round"/>
+                <path d="M10.9446667,13.3372667 L13.7273333,14.3306" id="Stroke-7366" stroke-linecap="round"/>
+                <path d="M1.2656,11.6666667 L8.0096,11.6666667" id="Stroke-7367" stroke-linecap="round"/>
+                <path d="M1.67446667,3.66666667 L14.3304667,3.66666667" id="Stroke-7368"/>
+                <path d="M15.6666667,7.66666667 L0.340666667,7.66666667" id="Stroke-7369" stroke-linecap="round"/>
+                <path d="M7.58526667,15.6562667 C3.54393333,15.4402667 0.333266667,12.0956 0.333266667,8.00026667 C0.333266667,3.7656 3.76593333,0.3336 7.99993333,0.3336 C12.1232667,0.3336 15.4912667,3.58626667 15.6666,7.66693333" id="Stroke-7370" stroke-linecap="round"/>
+                <path d="M7.513,0.350933333 C3.513,4.68426667 3.585,10.3229333 7.585,15.6562667" id="Stroke-7371" stroke-linecap="round"/>
+                <path d="M8.487,0.350933333 C10.497,2.52826667 11.4776667,5.03426667 11.4503333,7.66693333" id="Stroke-7372" stroke-linecap="round"/>
+            </g>
+        </g>
+    </g>
+</svg>

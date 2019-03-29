@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_tag</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4.09005621,6.56702526 C4.06523682,6.01907092 4.40358636,5.29537365 4.83491827,4.95907169 L8.23976914,2.30436895 C8.67596449,1.96427506 9.37997405,1.95569505 9.82612678,2.29580756 L13.3309736,4.96763309 C13.7708993,5.30299865 14.1477256,6.02074501 14.1724691,6.56702526 L14.6317431,16.7067229 C14.6565625,17.2546773 14.2304445,17.698882 13.6730817,17.698882 L5.59787063,17.698882 C5.04359714,17.698882 4.57407377,17.2530032 4.5493302,16.7067229 L4.09005621,6.56702526 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="10.5440014" height="15.6539117" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <ellipse id="path-3" cx="10" cy="9.06108597" rx="2" ry="2.01357466"></ellipse>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4" height="4.02714932" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-2261.000000, -597.000000)">
+            <g id="ic_tag" transform="translate(2258.000000, 592.000000)">
+                <rect id="Rectangle-7" x="0" y="-5.68434189e-13" width="24" height="24"></rect>
+                <g id="ic_profileDescriptions" transform="translate(3.000000, 2.013575)" stroke="#444444" stroke-width="2">
+                    <use id="Rectangle-11" mask="url(#mask-2)" transform="translate(9.360774, 9.871926) rotate(-315.000000) translate(-9.360774, -9.871926) " xlink:href="#path-1"></use>
+                    <use id="Oval-4" mask="url(#mask-4)" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

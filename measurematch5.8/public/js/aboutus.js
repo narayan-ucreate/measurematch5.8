@@ -1,0 +1,1 @@
+$(document).ready(function(){$("#learnmoreabout").on('click',function(){$('html, body').animate({scrollTop:$("#aboutus").offset().top},1000);});$('#aboutus_link').addClass('active');});

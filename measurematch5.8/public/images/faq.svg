@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>faq</title>
+    <desc>Created with Sketch.</desc>
+    <g id="•-Onboarding" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Buyer-Onboarding-•-3-(Filled)-PW-reveal" transform="translate(-725.000000, -461.000000)">
+            <g id="Group-4" transform="translate(726.000000, 262.000000)">
+                <g id="faq" transform="translate(0.000000, 200.000000)">
+                    <path d="M7.19679634,10 C7.19679634,7.78149606 9.72311213,7.2992126 9.72311213,5.65944882 C9.72311213,4.69488189 8.98169336,4.24015748 8.02059497,4.24015748 C7.1006865,4.24015748 6.37299771,4.66732283 6.08466819,5.57677165 L5,4.97047244 C5.4805492,3.63385827 6.71624714,3 8.03432494,3 C9.5583524,3 11,3.88188976 11,5.60433071 C11,7.72637795 8.47368421,8.25 8.47368421,10 L7.19679634,10 Z M8,13 C7.44615385,13 7,12.5538462 7,12 C7,11.4461538 7.44615385,11 8,11 C8.56923077,11 9,11.4461538 9,12 C9,12.5538462 8.56923077,13 8,13 Z" id="?" fill="#1D71B8"/>
+                    <circle id="Oval" stroke="#1D71B8" fill-rule="nonzero" cx="8" cy="8" r="8"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

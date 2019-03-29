@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="179px" height="179px" viewBox="0 0 179 179" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>avatar copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="89.5" cy="89.5" r="89.5"></circle>
+        <circle id="path-3" cx="89.5" cy="89.5" r="89.5"></circle>
+    </defs>
+    <g id="1.-Accepting-EOIs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="avatar-copy">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask-Copy" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <use id="Mask" fill="#FAFAFA" xlink:href="#path-3"></use>
+            <g id="Group-354" mask="url(#mask-4)" fill="#424242" opacity="0.0800000057">
+                <g transform="translate(31.000000, 35.000000)" id="Combined-Shape">
+                    <path d="M73.8947368,66.1509468 L73.8947368,81.5011344 L104.739632,92.0291407 C112.092158,94.5419739 117,101.197745 117,108.653857 L117,148 L0,148 L0,108.653857 C0,101.197745 4.90784211,94.5419739 12.2603684,92.0291407 L43.1052632,81.5011344 L43.1052632,66.1527956 C34.0678066,59.9903806 28,48.5683105 28,35.5 C28,15.8980833 41.6518,0 58.5,0 C75.3421,0 89,15.8980833 89,35.5 C89,48.5670008 82.9306989,59.9880911 73.8947429,66.1509426 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

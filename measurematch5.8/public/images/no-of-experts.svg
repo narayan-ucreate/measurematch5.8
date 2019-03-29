@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="14px" viewBox="0 0 22 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>No-Of-Experts</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="MM_Expert_Profile_Consultancy-3-Copy-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-301.000000, -349.000000)">
+        <g id="Group-15" transform="translate(300.000000, 344.000000)">
+            <g id="No-Of-Experts">
+                <rect id="Rectangle-8" fill="#D8D8D8" opacity="0" x="0" y="0" width="24" height="24"></rect>
+                <g id="Group-7" transform="translate(2.000000, 6.000000)" stroke="#444444">
+                    <g id="Group-16-Copy" transform="translate(0.000000, 1.160669)">
+                        <circle id="Oval-Copy" cx="4.03277588" cy="1.61311035" r="1.61311035"></circle>
+                        <path d="M5.66448975,9.67866211 L0.403277588,9.67866211 L0.403277588,7.83933105 C0.403277588,6.18247681 1.74642334,4.83933105 3.40327759,4.83933105 L4.66227417,4.83933105 C5.40392954,4.83933105 6.08272671,5.10845902 6.60633343,5.5543827" id="Rectangle-10-Copy" stroke-linejoin="round"></path>
+                    </g>
+                    <g id="Group-16-Copy-2" transform="translate(16.000000, 6.160669) scale(-1, 1) translate(-16.000000, -6.160669) translate(12.000000, 1.160669)">
+                        <circle id="Oval-Copy" cx="4.03277588" cy="1.61311035" r="1.61311035"></circle>
+                        <path d="M5.66448975,9.67866211 L0.403277588,9.67866211 L0.403277588,7.83933105 C0.403277588,6.18247681 1.74642334,4.83933105 3.40327759,4.83933105 L4.66227417,4.83933105 C5.40392954,4.83933105 6.08272671,5.10845902 6.60633343,5.5543827" id="Rectangle-10-Copy" stroke-linejoin="round"></path>
+                    </g>
+                    <circle id="Oval" cx="10" cy="2" r="2"></circle>
+                    <path d="M8.5,6 L11.5,6 C13.1568542,6 14.5,7.34314575 14.5,9 L14.5,12 L5.5,12 L5.5,9 C5.5,7.34314575 6.84314575,6 8.5,6 Z" id="Rectangle-10" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

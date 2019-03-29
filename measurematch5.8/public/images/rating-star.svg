@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="12px" viewBox="0 0 13 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>rating-star</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Expert-Profile-v2" transform="translate(-16.000000, -100.000000)" fill="#424242">
+            <g id="Group-2">
+                <g transform="translate(16.000000, 96.000000)">
+                    <g id="Rating" transform="translate(0.000000, 4.000000)">
+                        <polygon id="rating-star" points="6.30877335 9.95015528 2.40973699 12 3.15438667 7.65835921 0 4.58359214 4.35925517 3.95015528 6.30877335 0 8.25829152 3.95015528 12.6175467 4.58359214 9.46316002 7.65835921 10.2078097 12"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

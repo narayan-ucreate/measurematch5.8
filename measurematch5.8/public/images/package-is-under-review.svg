@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="77px" viewBox="0 0 57 77" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>package-is-under-review</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="•-Service-Packages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="MM-Expert-MyPackages_Awaiting_1.1" transform="translate(-612.000000, -71.000000)" stroke-width="2">
+            <g id="Group">
+                <g id="package-is-under-review" transform="translate(613.000000, 72.000000)">
+                    <path d="M48.6,16.6 C48.6,28.088 39.2816,37.4 27.8,37.4 C16.3056,37.4 7,28.088 7,16.6 L7,0.6 L48.6,0.6 L48.6,16.6 L48.6,16.6 Z" id="Stroke-3140" stroke="#424242"></path>
+                    <path d="M48.6,58.2 C48.6,46.7152 39.2816,37.4 27.8,37.4 C16.3056,37.4 7,46.7152 7,58.2 L7,74.2 L48.6,74.2 L48.6,58.2 L48.6,58.2 Z" id="Stroke-3141" stroke="#424242"></path>
+                    <path d="M0.6,0.6 L55,0.6" id="Stroke-3142" stroke="#424242"></path>
+                    <path d="M0.6,74.2 L55,74.2" id="Stroke-3143" stroke="#424242"></path>
+                    <polyline id="Stroke-3144" stroke="#1E70B7" points="7 61.4 18.2 61.4 27.8 51.8 37.4 61.4 48.6 61.4"></polyline>
+                    <path d="M11.4656,29.4 L44.1344,29.4" id="Stroke-3145" stroke="#1E70B7"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>logout-inactive</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="BrowseExpertsProfile-Fixed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-79.000000, -351.000000)" opacity="0.56" stroke-linecap="round" stroke-linejoin="round">
+        <g id="logout-inactive" transform="translate(80.000000, 352.000000)" stroke="#424242">
+            <polyline id="Stroke-4404" points="12.2727273 16.8368182 12.2727273 19.545 0.454545455 19.545 0.454545455 0.454090909 12.2727273 0.454090909 12.2727273 4.09045455"></polyline>
+            <path d="M4.09090909,10.4545455 L19.5454545,10.4545455" id="Stroke-4405"></path>
+            <polyline id="Stroke-4406" points="15 5.902 19.5454545 10.4474545 15 14.9929091"></polyline>
+        </g>
+    </g>
+</svg>

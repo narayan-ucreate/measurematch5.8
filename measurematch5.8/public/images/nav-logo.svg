@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="168px" height="21px" viewBox="0 0 168 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>0D4F2443-29BF-4919-8B3F-EA110A9E2B5E</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="29.854057%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#02C3E7" offset="0%"></stop>
+            <stop stop-color="#3370B5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="69.7985197%" x2="50%" y2="12.9591557%" id="linearGradient-2">
+            <stop stop-color="#4CB18E" offset="0%"></stop>
+            <stop stop-color="#B1DB88" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-size="26.6620047">
+        <g id="MM-HOME" transform="translate(-150.000000, -27.000000)">
+            <g id="Nav_Logo" transform="translate(148.000000, 20.000000)">
+                <text id="Measure" fill="url(#linearGradient-1)" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="bold">
+                    <tspan x="0" y="26.4148148">Measure</tspan>
+                </text>
+                <text id="Match" fill="url(#linearGradient-2)" font-family="SourceSansPro-Semibold, Source Sans Pro" font-weight="500">
+                    <tspan x="100.433566" y="26.712963">Match</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

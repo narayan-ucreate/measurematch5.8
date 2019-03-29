@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="36px" viewBox="0 0 34 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>buyer-views-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="•-Service-Packages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="MM_Buyer_findAServicePackage_1.3" transform="translate(-948.000000, -169.000000)">
+            <g id="buyer-views-icon" transform="translate(948.000000, 170.000000)">
+                <g id="Group-38" transform="translate(0.000000, 7.000000)" stroke-linejoin="round">
+                    <path d="M17,19.2857143 C8.00133333,19.2857143 0.708333333,10 0.708333333,10 C0.708333333,10 8.00133333,0.714285714 17,0.714285714 C25.9986667,0.714285714 33.2916667,10 33.2916667,10 C33.2916667,10 25.9986667,19.2857143 17,19.2857143 Z" id="Stroke-214" stroke="#424242"></path>
+                    <path d="M22.6666667,10 C22.6666667,13.1571429 20.1294167,15.7142857 17,15.7142857 C13.8705833,15.7142857 11.3333333,13.1571429 11.3333333,10 C11.3333333,6.84285714 13.8705833,4.28571429 17,4.28571429 C20.1294167,4.28571429 22.6666667,6.84285714 22.6666667,10 L22.6666667,10 Z" id="Stroke-215" stroke="#1D71B8"></path>
+                    <path d="M17,7.14285714 C18.5654167,7.14285714 19.8333333,8.42285714 19.8333333,10 C19.8333333,11.5771429 18.5654167,12.8571429 17,12.8571429 C15.4345833,12.8571429 14.1666667,11.5771429 14.1666667,10" id="Stroke-216" stroke="#424242"></path>
+                </g>
+                <path d="M17,0 L17,4" id="Line-2" stroke="#1D71B8"></path>
+                <path d="M27.5,2.5 L25.1750472,5.75493388" id="Line-2-Copy" stroke="#1D71B8"></path>
+                <path d="M8.5,2.5 L6.17504723,5.75493388" id="Line-2-Copy-2" stroke="#1D71B8" transform="translate(7.337524, 4.127467) scale(-1, 1) translate(-7.337524, -4.127467) "></path>
+                <path d="M17,30 L17,34" id="Line-2-Copy-5" stroke="#1D71B8" transform="translate(17.000000, 32.000000) scale(1, -1) translate(-17.000000, -32.000000) "></path>
+                <path d="M27.5,28.5 L25.1750472,31.7549339" id="Line-2-Copy-4" stroke="#1D71B8" transform="translate(26.337524, 30.127467) scale(1, -1) translate(-26.337524, -30.127467) "></path>
+                <path d="M8.5,28.5 L6.17504723,31.7549339" id="Line-2-Copy-3" stroke="#1D71B8" transform="translate(7.337524, 30.127467) scale(-1, -1) translate(-7.337524, -30.127467) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

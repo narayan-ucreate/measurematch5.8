@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="17px" viewBox="0 0 12 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_remote_working</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3.33333333,8.66666667 L1.65594973,8.66666667 C0.732589781,8.66666667 0,9.40700626 0,10.3202614 C0,11.2398837 0.74139395,11.9738562 1.65594973,11.9738562 L10.3440503,11.9738562 C11.2674102,11.9738562 12,11.2335166 12,10.3202614 C12,9.40063922 11.2586061,8.66666667 10.3440503,8.66666667 L8.66666667,8.66666667 L8.66666667,7.83773209 C10.0450201,7.17004611 10.9914966,5.7580719 10.9914966,4.12418301 C10.9914966,1.85109434 9.14514338,0 6.86755125,0 L5.45727868,0 C3.17269337,0 1.33333333,1.84645963 1.33333333,4.12418301 C1.33333333,5.62193385 2.13493974,6.93647307 3.33333333,7.65898061 L3.33333333,8.66666667 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="11.9738562" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Profile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Seller_profile_Summary_data" transform="translate(-221.000000, -409.000000)" stroke="#444444">
+            <g id="ic_remote_working" transform="translate(221.000000, 409.000000)">
+                <use id="Combined-Shape" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+                <path d="M1.5,15.8856382 L6.0558604,11.7970464" id="Path-15" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M6.06427932,15.8856382 L10.7147105,11.7941754" id="Path-15-Copy" stroke-linecap="round" stroke-linejoin="round" transform="translate(8.389495, 13.839907) scale(-1, 1) translate(-8.389495, -13.839907) "></path>
+                <path d="M6.08825684,15.4810049 L6.08825684,11.8272907" id="Path-16" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

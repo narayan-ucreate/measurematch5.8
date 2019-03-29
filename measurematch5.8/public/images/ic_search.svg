@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="16px" viewBox="0 0 15 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-657.000000, -440.000000)" stroke="#02C3E7">
+            <g id="ic_search" transform="translate(658.000000, 441.000000)">
+                <path d="M7.97885503,8.67266851 L12.8355494,14.2231764" id="Line" stroke-linecap="round"></path>
+                <path d="M4.50978763,9.71338873 C7.00047456,9.71338873 9.01957525,7.5389726 9.01957525,4.85669437 C9.01957525,2.17441613 7.00047456,0 4.50978763,0 C2.0191007,0 0,2.17441613 0,4.85669437 C0,7.5389726 2.0191007,9.71338873 4.50978763,9.71338873 Z" id="Oval-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

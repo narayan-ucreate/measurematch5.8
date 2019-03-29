@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_MMBullet</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-1508.000000, -252.000000)" fill="#29235C">
+            <g id="ic_MMBullet" transform="translate(1508.000000, 252.000000)">
+                <path d="M11.4071508,5.77978302 L7.34262831,1.61521076 L5.76622141,0 L4.18952862,1.61521076 L0.125006151,5.77978302 C-0.041668717,5.95056065 -0.041668717,6.23030789 0.125006151,6.40108552 L1.70169894,8.01658922 L3.72409691,5.94440914 L5.76622141,8.03650839 L7.80806002,5.94440914 L9.83045799,8.01658922 L11.4071508,6.40108552 C11.5738257,6.23030789 11.5738257,5.95056065 11.4071508,5.77978302" id="Fill-32"></path>
+            </g>
+        </g>
+    </g>
+</svg>

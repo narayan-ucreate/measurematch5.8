@@ -1,0 +1,989 @@
+@font-face {
+    font-family: gilroyblack;
+    src: url(../fonts/gilroy-black-webfont.eot);
+    src: url(../fonts/gilroy-black-webfont.eot?#iefix) format('embedded-opentype'), url(../fonts/gilroy-black-webfont.woff2) format('woff2'), url(../fonts/gilroy-black-webfont.woff) format('woff'), url(../fonts/gilroy-black-webfont.ttf) format('truetype'), url(../fonts/gilroy-black-webfont.svg#gilroyblack) format('svg');
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: gilroyregular;
+    src: url(../fonts/gilroy-regular-webfont.eot);
+    src: url(../fonts/gilroy-regular-webfont.eot?#iefix) format('embedded-opentype'), url(../fonts/gilroy-regular-webfont.woff2) format('woff2'), url(../fonts/gilroy-regular-webfont.woff) format('woff'), url(../fonts/gilroy-regular-webfont.ttf) format('truetype'), url(../fonts/gilroy-regular-webfont.svg#gilroyregular) format('svg');
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: gilroybold;
+    src: url(../fonts/gilroy-bold-webfont.eot);
+    src: url(../fonts/gilroy-bold-webfont.eot?#iefix) format('embedded-opentype'), url(../fonts/gilroy-bold-webfont.woff2) format('woff2'), url(../fonts/gilroy-bold-webfont.woff) format('woff'), url(../fonts/gilroy-bold-webfont.ttf) format('truetype'), url(../fonts/gilroy-bold-webfont.svg#gilroybold) format('svg');
+    font-weight: 400;
+    font-style: normal
+}
+
+.signup_section_bg h2,
+.signup_section_bg h4 {
+    text-align: center;
+    color: #424242;
+    letter-spacing: 0
+}
+
+.header_signup,
+.signup_landing_page {
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .12)
+}
+
+.header_signup {
+    padding: 17px 0 16px;
+    min-height: 55px;
+    float: left;
+    position: absolute;
+    width: 100%;
+    background: #FFF;
+    top: 0
+}
+
+.mainwrap {
+    float: left;
+    padding-top: 55px;
+    width: 100%
+}
+
+.signup_with_email_bg {
+    clear: both;
+    float: none;
+    height: 100%;
+    vertical-align: middle;
+    width: 100%
+}
+
+.signup_section_bg .profile_img .profilespan {
+    float: left;
+    width: 160px;
+    height: 160px;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 100%
+}
+
+.signup_section_bg h2 {
+    font-family: gilroybold;
+    margin: 0;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 26px
+}
+
+.signup_section_bg h4 {
+    margin: 11px 0 30px;
+    font-size: 17px;
+    line-height: 17px
+}
+
+.signup_landing_page {
+    width: 100%;
+    background: #fff;
+    border-radius: 2px;
+    float: left;
+    border: 1px solid #DBDBDB;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.08);
+    margin: 20px 0 50px;
+    padding:32px 48px;
+}
+.email-check-block{
+    text-align: center;
+}
+
+.email-check-block.user_login_section .submit-success{
+    margin: 0;
+}
+
+.email-check-block img {
+    margin-bottom: 24px;
+}
+
+.reset-form {
+    max-width: 368px;
+    margin: 25px auto 0;
+}
+
+.signup_landing_page label {
+    font-size: 16px;
+    color: #424242;
+    line-height:24px;
+    font-weight: 500;
+    width: auto;
+    text-align: left;
+    margin: 0 0 8px 0;
+}
+
+.email-success-reset {
+    height: 40px;
+    margin: 0 auto;
+    padding: 0 10px;
+    outline: 0;
+    border: 1px solid rgba(68, 68, 68, .15);
+    border-radius: 3px;
+    max-width: 368px;
+    float: none;
+    color: #221B1B;
+    font-size: 14px;
+    width: 100%;
+    background: #fff;
+    line-height: 37px;
+}
+
+.signup_landing_page .input-bx select,
+.signup_landing_page input {
+    height: 40px;
+    margin: 0;
+    padding: 6px 10px;
+    outline: 0
+}
+
+.signup_landing_page input:focus {
+    box-shadow: none;
+    color: #221b1b;
+    padding: 6px 10px;
+    outline: 0;
+    border: 1px solid rgba(68, 68, 68, .15)
+}
+
+.input-bx {
+    width: 100%;
+    margin-bottom: 27px;
+    float: left
+}
+
+.reset-email-form strong{
+    font-weight: normal;
+}
+
+.signup_landing_page .input-bx {
+    width: 100%;
+    margin-bottom:24px;
+    float: none
+}
+
+.signup_landing_page .input-bx input {
+    float: none
+}
+.signup_landing_page .input-bx input.error, .signup_landing_page .input-bx input.error:focus {
+    border: 1px solid #EB1653 !important;
+
+}
+
+.help-block {
+    text-align: left;
+}
+
+.signup_landing_page .select-box {
+    margin-bottom: 25px;
+    width: 100%;
+    float: left
+}
+
+.expert_buyer_login .continue-btn,
+.signup_landing_page input.continue-btn {
+    margin: 0 auto;
+    font-family: gilroybold;
+    border: 0;
+    letter-spacing: 0;
+    position: relative;
+    height: 40px;
+    text-align: center;
+    line-height: normal;
+    display: block;
+    text-decoration: none
+}
+
+.input-bx label .notification_star,
+.select-box label .notification_star,
+.signup_landing_page .notification_star {
+    color: #1e70b7
+}
+
+input::-webkit-input-placeholder {
+    color: #d3d0d1
+}
+
+input:-moz-placeholder {
+    color: #d3d0d1;
+    opacity: 1
+}
+
+input::-moz-placeholder {
+    color: #d3d0d1;
+    opacity: 1
+}
+
+input:-ms-input-placeholder {
+    color: #d3d0d1
+}
+
+.expert_buyer_login .continue-btn {
+   padding: 0 25px;
+font-size: 16px;
+min-width: inherit;
+float: left;
+line-height: 24px;
+}
+
+.expert_buyer_login .continue-btn:focus {
+    outline: 0;
+    border: 0
+}
+
+.signup_landing_page input.continue-btn {
+    clear: both;
+    float: none;
+    padding: 0;
+    color: #FFF
+}
+
+.skill_list_section .btn_anchor_wrap {
+    background: 0 0
+}
+
+.validation_error {
+    color: red;
+    font-size: 14px
+}
+
+.skip_btn,
+.upload-pic-text {
+    font-size: 18px;
+    letter-spacing: 0
+}
+
+.profile_img .fileinput-exists {
+    float: left;
+    height: 190px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 190px
+}
+
+.profile_img,
+.profile_pic_section {
+    position: relative
+}
+
+.profile_img {
+    clear: both;
+    background: #EEE;
+    border-radius: 100%;
+    width: 160px;
+    height: 160px;
+    margin: 0 auto 20px
+}
+
+.upload-btn {
+    width: 50px;
+    border: 0
+}
+
+.camera_small {
+    bottom: 0;
+    position: absolute;
+    right: 0
+}
+
+.skip_btn {
+    margin: 20px 0 0;
+    float: right;
+    color: #8B8587;
+    line-height: 18px
+}
+
+.upload_user_pic .continue-btn {
+    margin-top: 50px
+}
+
+.skill_list_section {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    float: left;
+    width: 100%
+}
+
+.skill_list_section .selected {
+    border: 1px solid #3E3C36!important;
+    color: #3E3C36;
+    float: left;
+    padding: 5px 20px;
+    border-radius: 100px
+}
+
+.btn_anchor_wrap {
+    border: 1px solid #3E3C36;
+    color: #3E3C36;
+    float: left;
+    padding: 5px 20px;
+    border-radius: 100px
+}
+
+.skill_list_section .signup_landing_page {
+    border: 1px solid #d3d0d1;
+    border-radius: 100px;
+    color: #d3d0d1;
+    display: block;
+    font-size: 18px;
+    height: auto;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-left: 22px;
+    outline: 0;
+    padding: 4px 22px;
+    text-decoration: none;
+    float: left;
+    margin-bottom: 10px
+}
+
+.btn-file .fileinput-new,
+.fileinput {
+    height: 200px;
+    border-radius: 4px;
+    float: left
+}
+
+.add_skill_section input {
+    margin-bottom: 31px
+}
+
+.nav-logo-white,
+.nav-logo-white:focus {
+    outline: 0
+}
+
+.btn-file .fileinput-new .lg-Camera {
+    margin: 65px 0 0
+}
+
+.btn-file .fileinput-new {
+    background: #d8d8d8;
+    left: 0;
+    position: absolute;
+    width: 200px;
+    top: 0
+}
+
+.upload-pic-text {
+    margin-top: 5px;
+    font-weight: 400;
+    display: block;
+    color: #FFF;
+    line-height: 24px
+}
+
+.fileinput {
+    position: relative;
+    overflow: hidden
+}
+
+.btn-file {
+    border: 0;
+    position: static
+}
+
+.btn-file .fileinput-exists {
+    position: absolute;
+    bottom: 0;
+    right: 0
+}
+
+.select-box .btn-group {
+    height: 40px;
+    background: #FFF;
+    border: 1px solid rgba(68, 68, 68, .15);
+    border-radius: 2px
+}
+
+.select-box .btn-group.bootstrap-select {
+    width: 100%!important
+}
+
+.select-box .btn-default.active,
+.select-box .btn-default.active:hover,
+.select-box .btn-default:active,
+.select-box .btn:focus,
+.select-box .btn:hover,
+.select-box .open>.dropdown-toggle.btn-default {
+    background: #FFF;
+    box-shadow: none;
+    outline: 0
+}
+
+.select-box .dropdown-menu {
+    background: #FFF;
+    margin: 0;
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, .5)
+}
+
+.select-box .dropdown-toggle {
+    border: 0;
+    padding: 8px 10px 0
+}
+
+.bootstrap-select.btn-group .dropdown-menu li a span.text {
+    font-size: 14px
+}
+
+.profile_img .thumbnail-upload {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    z-index: 9999
+}
+
+.profile_img .btn-file {
+    height: 200px;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    z-index: 9999;
+    width: 200px
+}
+
+.add_skill_section .input-bx {
+    margin-bottom: 0
+}
+
+.add_skill_section .continue-btn {
+    margin-top: 30px;
+    margin-bottom: 0
+}
+
+.add_skill_section .notification_star {
+    margin-top: 20px;
+    float: left;
+    width: 100%
+}
+
+.required-info {
+    margin: 16px 0 20px 27px!important;
+    float: left;
+    color: #1E70B7;
+    width: 100%
+}
+
+.bootstrap-select .dropdown-toggle:focus {
+    outline: 0!important;
+    border: 0!important
+}
+
+.bootstrap-select.btn-group .dropdown-toggle .filter-option {
+    display: inline;
+    float: left
+}
+
+.profile_img .fileinput-preview {
+    cursor: pointer
+}
+
+.signup_landing_page .input-bx select{
+    color: #221B1B
+}
+
+.signup_landing_page input {
+    color: #221B1B;
+    text-align: left;
+    max-width: 404px;
+    float: none;
+}
+
+.signup_landing_page input:disabled{
+    text-align: center;
+}
+
+.skill_list_section .a_wraper,
+.skill_list_section .btn_anchor_wrap {
+    border: 1px solid #d3d0d1;
+    min-height: 35px;
+    border-radius: 100px;
+    color: #d3d0d1;
+    display: block;
+    float: left;
+    font-size: 18px;
+    height: auto;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin: 0 10px;
+    outline: 0;
+    padding: 5px 22px 8px;
+    text-decoration: none
+}
+
+.signup_landing_page .skill_list_section .a_wraper a.btnclose,
+.signup_landing_page .skill_list_section .btn_anchor_wrap a.btnclose,
+.skill_list_section .a_wraper a.btnclose,
+.skill_list_section .btn_anchor_wrap a.btnclose {
+    float: right;
+    padding: 0 0 0 7px;
+    text-align: right
+}
+
+.signup_section_bg .profile_img>img {
+    height: 200px;
+    border-radius: 4px
+}
+
+.fileinput-preview img,
+.vertical_align_middle {
+    height: 100%;
+    width: 100%
+}
+
+.btn_anchor_wrap button,
+.skill_list_section .a_wraper button {
+    background: #fff;
+    border: 0;
+    color: #3e3c36;
+    text-align: left
+}
+
+.selected button {
+    color: #3E3C36!important
+}
+
+.btn_anchor_wrap button {
+    color: #d3d0d1;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 18px
+}
+
+.upload_user_pic input.continue-btn {
+    display: block;
+    float: none;
+    margin: 0 auto!important
+}
+
+.btn_anchor_wrap button:focus {
+    outline: 0;
+    border: 0
+}
+
+.vertical_align_middle {
+    display: table;
+    vertical-align: middle;
+    float: none
+}
+
+.signup_section_bg {
+    margin: 0;
+    vertical-align: middle;
+    float: none;
+    width: 100%
+}
+
+.skill_list_section button {
+    text-transform: capitalize;
+    height: auto;
+    padding: 2px 17px 0;
+    margin-right: 0;
+    text-align: left
+}
+
+.signup_landing_page .input-bx .payment label {
+    margin-left: 0
+}
+
+.signup_landing_page .payment {
+    position: relative;
+    float: left;
+    width: 100%
+}
+
+.signup_landing_page .input-bx.select-box.rate-section {
+    float: left;
+    margin-bottom: 27px
+}
+
+.signup_landing_page .required-info {
+    margin: 0 0 30px!important;
+    font-size: 14px
+}
+
+input[type=checkbox]:not(old),
+input[type=radio]:not(old) {
+    width: 2em;
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    opacity: 0
+}
+
+.bootstrap-select.btn-group .dropdown-toggle .filter-option,
+.signup_landing_page p {
+    font-size: 16px;
+    text-align: center;
+}
+
+input[type=checkbox]:not(old)+label,
+input[type=radio]:not(old)+label {
+    display: inline-block;
+    margin-left: -2em;
+    line-height: 1.5em;
+    font-size: 14px
+}
+
+input[type=checkbox]:not(old)+label>span,
+input[type=radio]:not(old)+label>span {
+    position: relative;
+    top: 2px;
+    background: #fff;
+    border: 1px solid rgba(68, 68, 68, .15);
+    display: inline-block;
+    height: 20px;
+    margin: .25em .5em .25em .25em;
+    vertical-align: bottom;
+    width: 20px
+}
+
+.signup-radio-btn {
+    position: relative;
+    float: left;
+    width: 100%
+}
+
+.signup-radio-btn input[type=radio] {
+    float: left;
+    left: 0;
+    position: absolute;
+    top: 9px
+}
+
+.signup_cat {
+    margin-bottom: 0
+}
+
+.signup_landing_page .signup_cat {
+    margin-bottom: 5px
+}
+
+.expert_buyer_login .checkbox label {
+    padding-left: 0
+}
+
+.has-error .checkbox,
+.has-error .checkbox-inline,
+.has-error .control-label,
+.has-error .help-block,
+.has-error .radio,
+.has-error .radio-inline,
+.has-error.checkbox label,
+.has-error.checkbox-inline label,
+.has-error.radio label,
+.has-error.radio-inline label {
+    color: #221b1b
+}
+
+.has-error .form-control {
+    border: 1px solid rgba(68, 68, 68, .15)
+}
+
+.has-error .help-block strong {
+    font-weight: 400;
+    color: red
+}
+
+.input-bx.expert-first-name {
+    float: left;
+    margin-right: 8%;
+    width: 46%
+}
+
+.input-bx.expert-last-name {
+    float: left;
+    width: 46%
+}
+
+.input-bx.select-box.rate-section label {
+    width: 100%
+}
+
+.profile_img .fileinput-new img {
+    margin-top: 0;
+    cursor: pointer
+}
+
+.ic_addImage-img {
+    bottom: 0;
+    position: absolute;
+    right: 0
+}
+
+.signup_section_bg .profile_img .fileinput-new {
+    height: 160px;
+    left: 0;
+    position: absolute;
+    width: 100%;
+    z-index: 99
+}
+
+.signup_section_bg .profile_img .fileinput-exists {
+    width: 160px;
+    height: 160px
+}
+
+.user-login-middle-block {
+    max-width:504px;
+    width: 100%;
+    float: none;
+    margin: 0 auto;
+}
+
+.user-login-middle-block.login {
+    max-width: 416px;
+}
+
+.login-main{
+    max-width:416px;
+    width: 100%;
+    float: none;
+    margin: 25px auto
+}
+
+.user-login-middle-block .user_login_section {
+    float: left;
+}
+
+.buyer_signup_form .signup_landing_page {
+    padding: 45px 80px 10px
+}
+
+body,
+html {
+    min-height: 100%
+}
+
+.signup_landing_page .bootstrap-select.btn-group .dropdown-toggle .caret {
+    position: absolute
+}
+
+.signup_section_bg h4.small-md-heading {
+    margin: 11px 0 5px
+}
+
+.full-width-dropdown {
+    width: 100%;
+    float: left;
+    margin: 0 0 27px
+}
+
+.full-width-dropdown .btn-group.bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn) {
+    width: 100%
+}
+
+.full-width-dropdown .btn-default.focus,
+.full-width-dropdown .btn-default:focus,
+.full-width-dropdown .btn-group {
+    background: #fff;
+    border: 1px solid rgba(68, 68, 68, .15);
+    border-radius: 2px;
+    height: 40px;
+    width: 100%
+}
+
+.full-width-dropdown .btn-group button.btn-default {
+    border: 0;
+    height: 38px;
+    line-height: 18px;
+    padding: 0 8px
+}
+
+.user-login-middle-block .user_login_section .form-group input[type=email],
+.user-login-middle-block .user_login_section .form-group input[type=text] {
+    float: none;
+    -webkit-appearance: none
+}
+
+.unsubscribe_wrapper {
+    margin-top: 20px
+}
+
+.submit-success{
+    background: #1E70B7;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .18);
+    color: #fff !important;
+    text-align: center;
+    padding: 0 30px;
+    width: auto;
+    border-radius: 3px;
+    line-height: 36px;
+    height: 40px;
+    float: none;
+    font-size: 16px;
+    font-weight: bold;
+    margin:15px 0 0 0;
+}
+
+
+@media only screen and (max-height:850px) {
+    .header_signup {
+        position: inherit
+    }
+    body {
+        padding: 0
+    }
+    .signup_section_bg,
+    .vertical_align_middle {
+        display: block;
+        float: left;
+        width: 100%
+    }
+    .signup_with_email_bg {
+        display: block
+    }
+}
+
+@media (max-width:768px) {
+    .greybar .nav-tabs>li {
+        padding-right: 26px
+    }
+    .header_signup {
+        min-height: 60px
+    }
+}
+
+@media (max-width:736px) {
+    .greybar .nav-tabs {
+        width: auto;
+        max-width: 550px
+    }
+    .signup_landing_page {
+        width: 100%;
+        clear: both;
+        padding: 20px;
+        max-width: 350px
+    }
+    .buyer_signup_form .signup_landing_page {
+        padding: 20px 40px;
+        margin: 40px auto 10px
+    }
+    .user-login-middle-block .signup_landing_page {
+        width: 100%;
+        clear: both;
+        padding: 20px;
+        margin: 20px 0 50px;
+    }
+    .buyer_signup_form .continue-btn.green_gradient {
+        margin: 20px auto 0
+    }
+    .signup_section_bg h2 {
+        margin: 0;
+        font-size: 20px
+    }
+    .validation_error {
+        width: 100%;
+        display: block
+    }
+    .skill_list_section .a_wraper,
+    .skill_list_section .btn_anchor_wrap {
+        margin-left: 10px
+    }
+    .btn_anchor_wrap button {
+        font-size: 14px
+    }
+    .signup_section_bg h4 {
+        padding: 0 10%;
+        font-size: 14px
+    }
+    .btn_anchor_wrap button,
+    .skill_list_section .a_wraper button {
+        padding-left: 0
+    }
+    .user-login-middle-block, .user-login-middle-block.login{
+        max-width: 350px;
+        width: 100%;
+        float: none
+    }
+}
+
+@media (max-width:480px) {
+    .expert_buyer_login .continue-btn {
+        padding: 0 10px;
+        min-width: 135px
+    }
+    .greybar {
+        margin: 0
+    }
+    .greybar .nav-tabs {
+        width: 100%
+    }
+    .signup_landing_page {
+        padding: 30px 20px
+    }
+    .buyer_signup_form .signup_landing_page {
+        padding: 30px 20px;
+        float: left
+    }
+    .buyer_signup_form.expert_buyer_login.reset-psw-block .signup_landing_page {
+        float: none
+    }
+    .buyer_signup_form.expert_buyer_login.reset-psw-block .signup_landing_page h2 {
+        padding: 0 20px;
+        margin: 0 0 20px
+    }
+    .buyer_signup_form.expert_buyer_login.reset-psw-block .signup_landing_page .continue-btn {
+        padding: 0 25px;
+        margin: 0 auto
+    }
+    .singup-buyer-first-section {
+        max-width: 300px
+    }
+    .vertical_align_middle .signup_landing_page .rate-section .post-rate-input-bx {
+        width: 85%;
+        margin-bottom: 10px;
+        margin-right: 0
+    }
+    .bootstrap-select.btn-group .dropdown-toggle .filter-option {
+        width: 90%!important
+    }
+    .bootstrap-select .btn,
+    .dropdown-menu.open {
+        width: 100%!important
+    }
+    .bootstrap-select.btn-group .dropdown-menu li a span {
+        white-space: initial!important;
+        display: block
+    }
+    .bootstrap-select.btn-group .dropdown-menu li a {
+        width: 100%
+    }
+    .bootstrap-select.btn-group .dropdown-toggle .caret {
+        margin-top: 0;
+        position: relative;
+        vertical-align: middle
+    }
+    .profile-page-popup .bootstrap-select .btn {
+        white-space: pre-line;
+        width: inherit!important
+    }
+    .skill_list_section .a_wraper,
+    .skill_list_section .btn_anchor_wrap {
+        margin-left: 0;
+        width: 100%
+    }
+    .btn_anchor_wrap button,
+    .skill_list_section .a_wraper button {
+        width: 87%;
+        padding-left: 0
+    }
+    .skip_btn {
+        width: auto!important
+    }
+    .user-login-middle-block .user_login_section {
+        padding: 30px 20px;
+        margin: 20px auto 50px;
+    }
+    .signup_section_bg h2,
+    .user-login-middle-block .user_login_section h2 {
+        margin: 0 0 20px
+    }
+}

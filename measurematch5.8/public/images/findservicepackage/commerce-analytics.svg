@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>commerce-analytics</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="•-Service-Packages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-54.000000, -28.000000)">
+            <g id="commerce-analytics" transform="translate(55.000000, 29.000000)">
+                <rect id="Rectangle-13" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+                <path d="M48,37.5652174 C48,43.3293913 43.3273043,48 37.5652174,48 C31.8010435,48 27.1304348,43.3293913 27.1304348,37.5652174 C27.1304348,31.8031304 31.8010435,27.1304348 37.5652174,27.1304348 C43.3273043,27.1304348 48,31.8031304 48,37.5652174 L48,37.5652174 Z" id="Stroke-4464" stroke="#424242" stroke-width="2" stroke-linejoin="round"></path>
+                <path d="M35.1460174,39.8600348 C35.1460174,41.1977739 36.2291478,42.2829913 37.5648,42.2829913 C38.9004522,42.2829913 39.9835826,41.1977739 39.9835826,39.8600348 C39.9835826,38.5264696 38.9004522,37.4433391 37.5648,37.4433391 C36.2291478,37.4433391 35.1460174,36.3602087 35.1460174,35.0224696 C35.1460174,33.6889043 36.2291478,32.603687 37.5648,32.603687 C38.9004522,32.603687 39.9835826,33.6889043 39.9835826,35.0224696" id="Stroke-4465" stroke="#1D71B8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M37.5652174,42.2832 L37.5652174,43.8922435" id="Stroke-4466" stroke="#1D71B8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M37.5652174,30.9904696 L37.5652174,32.603687" id="Stroke-4467" stroke="#1D71B8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polyline id="Stroke-4468" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="22.9869913 37.5652174 6.29133913 37.5652174 2.11742609 18.7826087 39.6826435 18.7826087 38.5202087 24.0125217"></polyline>
+                <polygon id="Stroke-4469" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="0.0313043478 18.7826087 41.7704348 18.7826087 41.7704348 14.6086957 0.0313043478 14.6086957"></polygon>
+                <path d="M6.29133913,10.4347826 L18.8130783,0" id="Stroke-4470" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M35.5087304,10.4347826 L22.9869913,0" id="Stroke-4471" stroke="#424242" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

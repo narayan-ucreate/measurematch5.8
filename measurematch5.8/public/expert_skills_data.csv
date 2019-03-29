@@ -1,0 +1,1058 @@
+Skills,Tools,Clean up to:,This skill is also searchable by:,total_profiles_usage,added_by,is_depricated
+Google Analytics,1,,GA,126,,FALSE
+Adobe Analytics,1,,,46,,FALSE
+Tableau,1,,,42,,FALSE
+google data studio,1,Google Data Studio,,39,,TRUE
+Google Tag Manager,1,,,35,,TRUE
+excel,1,Excel,,31,,TRUE
+Google Analytics 360,1,,,31,,FALSE
+google optimize,1,Google Optimize,,29,,TRUE
+Optimizely,1,,,23,,FALSE
+Adobe Dynamic Tag Management,1,,,22,,FALSE
+tealium,1,Tealium,,19,,TRUE
+Adobe Target,1,,,14,,FALSE
+AWS,1,,,10,,FALSE
+doubleclick,1,DoubleClick,,10,,TRUE
+hotjar,1,Hotjar,,10,,TRUE
+Power BI,1,,,9,,FALSE
+Salesforce,1,,,8,,FALSE
+Signal,1,,,7,,FALSE
+Google adwords,1,Google Adwords,,6,,TRUE
+adobe marketing cloud,1,Adobe Marketing Cloud,,5,,TRUE
+Adobe Suite,1,,,5,,FALSE
+Facebook Ads,1,Facebook Ads,,5,,TRUE
+Klipfolio,1,,,5,,FALSE
+wordpress,1,Wordpress,,5,user,FALSE
+Zapier,1,,,5,,FALSE
+Adobe,1,Adobe Experience Cloud,,4,,FALSE
+adwords,1,Adwords,,4,,TRUE
+MailChimp,1,,,4,,FALSE
+Piwik,1,matomo,,4,,FALSE
+Redshift,1,,,4,,FALSE
+salesforce,1,,,4,,TRUE
+SPSS,1,,,4,,TRUE
+Webtrekk,1,,,4,,FALSE
+Alteryx,1,,,3,,FALSE
+clicktale,1,Clicktale,,3,,TRUE
+comscore,1,comScore,,3,,TRUE
+Crazyegg,1,,,3,,FALSE
+Datorama,1,,,3,user,FALSE
+Ensighten,1,,,3,,FALSE
+Hubspot,1,HubSpot,,3,,TRUE
+HubSpot,1,,,3,,FALSE
+Kissmetrics,1,,,3,,TRUE
+lotame,1,,,3,,TRUE
+marketo,1,,,3,,TRUE
+Matlab,1,,,3,,TRUE
+Oracle,1,,,3,,TRUE
+Pipedrive,1,,,3,,FALSE
+Sizmek,1,,,3,,TRUE
+Slack Integrations,1,,,3,,FALSE
+Tealium iQ,1,,,3,,TRUE
+adform,1,Adform,,2,,TRUE
+Adobe Campaign,1,,,2,,FALSE
+Adometry,1,,,2,,FALSE
+Apache Spark,1,,,2,user,FALSE
+BlueKai,1,Oracle BlueKai,,2,,FALSE
+Decibel Insight,1,,,2,,FALSE
+Domo,1,,,2,,FALSE
+doubleclick,1,DoubleClick,,2,,TRUE
+facebook advertising,1,Facebook Ads,,2,,TRUE
+Flashtalking,1,,,2,,TRUE
+Google,1,,,2,,TRUE
+google 360,1,Google Analytics 360,,2,,TRUE
+Google Analytics API,1,,,2,,TRUE
+Google Sheets,1,,,2,,TRUE
+Intercom,1,,,2,,FALSE
+Krux,1,Salesforce,,2,,FALSE
+Lotame,1,,,2,,FALSE
+mailchimp,1,,,2,,TRUE
+Marketo,1,,,2,,FALSE
+Maxymiser,1,Oracle,,2,,TRUE
+Mixpanel,1,,,2,,TRUE
+Moat,1,,,2,,TRUE
+Monetate,1,,,2,user,FALSE
+Omniture,1,,,2,,TRUE
+Optimize,1,Google Optimize,,2,,TRUE
+Pardot,1,,,2,,FALSE
+Qlik,1,,,2,user,FALSE
+Qliksense,1,,,2,user,FALSE
+Qubit,1,,,2,,TRUE
+RapidMiner,1,,,2,user,FALSE
+Searchmetrics,1,,,2,,TRUE
+Segment,1,,,2,user,FALSE
+Sprinklr,1,,,2,,TRUE
+Sysomos,1,,,2,,TRUE
+Tag Commander,1,Commanders Act,,2,,TRUE
+Target,1,,,2,user,FALSE
+Teradata,1,,,2,,TRUE
+Unbounce,1,,,2,,TRUE
+Visio,1,,,2,,TRUE
+VWO,1,,,2,user,FALSE
+AB Tasty,1,,,1,user,FALSE
+Acxiom,1,,,1,,FALSE
+Ad Espresso,1,,,1,user,FALSE
+Adacado,1,,,1,,TRUE
+Adjust,1,,,1,,TRUE
+Adjuster,1,,,1,user,FALSE
+Adobe Analytics standard & premium,1,Adobe Analytics,,1,user,FALSE
+Adobe Audience Manager,1,,,1,,TRUE
+Adobe Experience Manager,1,,,1,,TRUE
+Adobe Fireworks,1,,,1,user,FALSE
+Adobe Lightroom,1,,,1,user,FALSE
+Adobe Marketing Cloud solutions,1,Adobe Experience Cloud,,1,user,FALSE
+Adobe Media Optimizer,1,,,1,,FALSE
+Adobe Photoshop,1,,,1,user,FALSE
+Adobe Social,1,,,1,user,FALSE
+Adobe Stack,1,Adobe Experience Cloud,,1,,TRUE
+Advanced Google Sheets,1,Google Sheets,,1,,TRUE
+Airflow,1,,,1,user,FALSE
+Amazon Redshift,1,,Redshift,1,user,FALSE
+Amazon Web Services,1,,AWS,1,user,FALSE
+Amplitude,1,,,1,,TRUE
+Analytics Edge (Excel),1,,,1,,TRUE
+ANOVA/MANOVA,1,,,1,user,FALSE
+Apache Hive,1,,,1,user,FALSE
+Appcues,1,,,1,user,FALSE
+Asana,1,,,1,user,FALSE
+AWS API Gateway,1,,AWS,1,,TRUE
+AWS Elastic Beanstalk,1,,AWS,1,,TRUE
+AWS EMR,1,,AWS,1,,TRUE
+AWS Kinesis,1,,AWS,1,,TRUE
+AWS Lambda,1,,AWS,1,,TRUE
+AWS Redshift,1,,AWS,1,,TRUE
+Azure,1,,,1,,TRUE
+Azure SQL,1,,,1,,TRUE
+Baremetrics,1,,,1,user,FALSE
+BIME,1,,,1,user,FALSE
+Birst,1,,,1,user,FALSE
+Brandwatch,1,,,1,,TRUE
+Buffer,1,,,1,user,FALSE
+callrail,1,CallRaill,,1,user,FALSE
+Canva,1,,,1,,TRUE
+Cisco,1,,,1,,TRUE
+Clickhouse,1,,,1,,TRUE
+Clicky,1,,,1,user,FALSE
+CORBA,1,,,1,,TRUE
+Coremetrics,1,,,1,user,FALSE
+Couchbase,1,,,1,user,FALSE
+Criteo,1,,,1,,TRUE
+Crowdflower,1,,,1,user,FALSE
+Cryptography,1,,,1,,TRUE
+Crystal Reports,1,,,1,user,FALSE
+Data Mart,1,,,1,,TRUE
+Datameer,1,,,1,user,FALSE
+DataRobot,1,,,1,user,FALSE
+Datasift,1,,,1,user,FALSE
+Docker,1,,,1,user,FALSE
+DoubleClick,1,,,1,,FALSE
+Drip,1,,,1,user,FALSE
+Dunhumby,1,,,1,user,FALSE
+Dynatrace,1,,,1,,TRUE
+Econometrics,1,,,1,user,FALSE
+Excel,1,,,1,,FALSE
+Fabric.io,1,,,1,,TRUE
+facebook,1,Facebook,,1,,TRUE
+Facebook Ad Strategist,1,Facebook Ads,,1,user,FALSE
+Facebook Campaigns,1,Facebook Ads,,1,user,FALSE
+Facebook Marketer,1,Facebook Ads,,1,user,FALSE
+GA,1,Google Analytics,,1,user,FALSE
+Google Adwords Campaigns,1,Google Adwords,,1,user,FALSE
+Google Adwords. PPC,1,Google Adwords,,1,,TRUE
+Google Apps Plugin Development,1,,,1,user,FALSE
+Google Apps Script,1,,,1,user,FALSE
+Google Big Query,1,Google BigQuery,,1,,TRUE
+Google BigQuery,1,,,1,,TRUE
+Google Data Studio,1,,,1,,FALSE
+Google DataStudio,1,Google Data Studio,,1,user,FALSE
+Google Double Click,1,DoubleClick,,1,,TRUE
+Google Search Console,1,,,1,user,FALSE
+Google Sheets Plugin Development,1,Google Sheets Plugins,,1,user,FALSE
+Google Stack,1,,,1,,TRUE
+Google Tag Management,1,Google Tag Manager,,1,user,FALSE
+google tag mananger,1,Google Tag Manager,,1,,TRUE
+Google TagManager,1,Google Tag Manager,,1,user,FALSE
+Google Universal Analytics,1,,,1,,TRUE
+Google Web Master Tools,1,Google Webmaster Tools,,1,,TRUE
+Google Webmaster Tools,1,,,1,,TRUE
+GTM,1,,,1,user,FALSE
+Hadoop(Spark),1,,,1,user,FALSE
+Hitwise,1,,,1,user,FALSE
+Hootsuite,1,,,1,user,FALSE
+IBM Digital Analytics,1,,,1,user,FALSE
+INFORMATICA,1,,,1,user,FALSE
+Instagram,1,,,1,,TRUE
+Integrator,1,,,1,user,FALSE
+JIRA,1,,,1,user,FALSE
+Joomla,1,,,1,user,FALSE
+Jupyter,1,,,1,user,FALSE
+Kafka,1,,,1,user,FALSE
+Keen,1,,,1,user,FALSE
+Kimball,1,,,1,,TRUE
+Kinesis,1,,,1,user,FALSE
+klaviyo,1,,,1,,TRUE
+Leadpages,1,,,1,user,FALSE
+Lean Six Sigma,1,,,1,user,FALSE
+LinkedIn Advertising,1,,,1,user,FALSE
+Luigi,1,,,1,user,FALSE
+Luminate Online,1,,,1,,TRUE
+Magento,1,,,1,user,FALSE
+MapReduce,1,,,1,user,FALSE
+MaxDiff Analysis,1,,,1,user,FALSE
+MediaRadar,1,,,1,,TRUE
+Microsoft Azure,1,,,1,user,FALSE
+Microsoft Excel,1,,,1,,TRUE
+Microsoft Office,1,,,1,user,FALSE
+Microsoft Power BI,1,,,1,,TRUE
+MS BI Suite,1,,,1,,TRUE
+MS Office,1,,,1,user,FALSE
+MS Project,1,,,1,user,FALSE
+MS SQL Server,1,,,1,user,FALSE
+ObservePoint,1,,,1,user,FALSE
+Office 365,1,,,1,,TRUE
+Omniscope,1,,,1,user,FALSE
+"Omniture' 
+Web Analytics",1,,,1,user,FALSE
+OpenRTB,1,,,1,,TRUE
+Oracle BlueKai,1,,,1,,TRUE
+Oracle Maxymiser,1,,,1,user,FALSE
+PeopleSoft,1,,,1,user,FALSE
+Permutive,1,,,1,user,FALSE
+Photoshop,1,,,1,user,FALSE
+PowerBI,1,,,1,,TRUE
+PowerPivot,1,,,1,,TRUE
+Qlikview,1,,,1,user,FALSE
+Qualtrics,1,,,1,user,FALSE
+Quantcast,1,,,1,,TRUE
+Quantifind,1,,,1,user,FALSE
+RabbitMQ,1,,,1,,TRUE
+Radian 6,1,,,1,user,FALSE
+Salesforce Krux,1,,,1,user,FALSE
+Salesforce Stack,1,,,1,,TRUE
+Salesfusion,1,,,1,user,FALSE
+SAP Xcelsius,1,,,1,user,FALSE
+SAS Base/EG/EM,1,,,1,user,FALSE
+SAS Visual Analytics,1,,,1,user,FALSE
+SCADA,1,,,1,,TRUE
+Segmentio,1,,,1,,TRUE
+SEM Rush,1,,,1,user,FALSE
+Signal - Brighttag,1,,,1,user,FALSE
+SiSense,1,,,1,user,FALSE
+SiteCatalyst,1,,,1,,TRUE
+snowplow analytics,1,,,1,,TRUE
+Snowplow Analytics,1,,,1,,FALSE
+Social Bakers,1,,,1,user,FALSE
+Socket.io,1,,,1,user,FALSE
+Solver(MS-Excel),1,,,1,user,FALSE
+Spacy,1,,,1,,TRUE
+SSAS cube,1,,,1,,TRUE
+SSIS,1,,,1,,TRUE
+SSRS,1,,,1,,TRUE
+SSRS report development,1,,,1,,TRUE
+Sumo,1,,,1,user,FALSE
+Sysomos Map,1,,,1,user,FALSE
+Systems Architecture,1,,,1,user,FALSE
+Systems Design,1,,,1,,TRUE
+Systems Engineering,1,,,1,,FALSE
+Tableau.,1,Tableau,,1,,TRUE
+Tapfiliate,1,,,1,user,FALSE
+Tealium,1,,,1,,FALSE
+Tealium Audience Stream,1,,,1,user,FALSE
+Tealium AudienceStream,1,,,1,user,FALSE
+Tealium Cloud Delivery,1,,,1,user,FALSE
+TeamSite,1,,,1,user,FALSE
+Toad Data Modeller,1,,,1,,TRUE
+TOGAF,1,,,1,,TRUE
+TubeMogul,1,,,1,user,FALSE
+Unix/Linux,1,,,1,user,FALSE
+VAST,1,,,1,,TRUE
+Visual Website Optimizer VWO,1,,,1,,TRUE
+VMWare,1,,,1,,TRUE
+Weka,1,,,1,user,FALSE
+Windows,1,,,1,,TRUE
+Word Press,1,,,1,,TRUE
+wordpress design,1,,,1,,TRUE
+WPEngine,1,,,1,user,FALSE
+WuFoo Forms,1,,,1,,TRUE
+Yandex Metrics,1,,,1,,TRUE
+data analysis,No,,,48,,TRUE
+SQL,No,,,45,,FALSE
+analytics,No,,,36,,TRUE
+R,No,,,33,,FALSE
+Digital Strategy,No,,,32,,FALSE
+JavaScript,No,,,31,,FALSE
+Web Analytics,No,,,31,,FALSE
+Python,No,,,29,,FALSE
+A/B Testing,No,,,28,,FALSE
+Marketing Analytics,No,,,27,,FALSE
+tag manager,No,,,24,,TRUE
+Data Science,No,,,21,,FALSE
+machine learning,No,,,21,,TRUE
+Tag Management,No,,,20,,FALSE
+Business analytics,No,,,19,,TRUE
+Web analytics,No,,,19,,TRUE
+Data Mining,No,,,18,,FALSE
+digital analytics roadmap,No,,,17,,TRUE
+Web Analytics Implementation,No,,,17,,FALSE
+Big Data,No,,,16,,FALSE
+Project Management,No,,,16,,FALSE
+Conversion Rate Optimization (CRO),No,,,15,,FALSE
+analysis,No,,,14,,TRUE
+HTML,No,,,14,,FALSE
+Measurement Strategy,No,,,14,,FALSE
+Dashboard Development,No,,,13,,FALSE
+Adobe Report Builder,No,,,12,,FALSE
+Conversion Optimization,No,,,12,,FALSE
+Digital Transformation,No,,,12,,FALSE
+Marketing Technology,No,,,12,,FALSE
+Predictive Analytics,No,,,12,,FALSE
+Strategy Definition,No,,,12,,FALSE
+Training,No,,,12,,FALSE
+Cross-Channel Attribution,No,,,11,,FALSE
+Databases,No,,,11,,FALSE
+Digital Marketing,No,,,11,,TRUE
+html/css,No,,,11,,TRUE
+SAS,No,,,11,,FALSE
+business intelligence,No,,,10,,TRUE
+Customer Behavior Measurement,No,,,10,,FALSE
+Data Management,No,,,10,,FALSE
+Data Management Platforms,No,,,10,,FALSE
+ad effectiveness measurement,No,Ad Effectiveness Measurement,,9,,TRUE
+Data strategy,No,,,9,,TRUE
+predictive modelling,No,,,9,,TRUE
+APIs,No,,,8,,FALSE
+Business Requirements,No,,,8,,FALSE
+forecasting,No,,,8,,TRUE
+Marketing Strategy,No,,,8,,TRUE
+SEO,No,,,8,,TRUE
+Statistics,No,,,8,,TRUE
+Team Building,No,,,8,,FALSE
+API Development,No,,,7,,FALSE
+Attribution,No,,,7,,FALSE
+CRM,No,,,7,,TRUE
+CSS,No,,,7,,TRUE
+Data Visualization,No,,,7,,TRUE
+DMP,No,,,7,,TRUE
+Market Research,No,,,7,,FALSE
+Systems Integration,No,,,7,,FALSE
+Customer Experience Optimization,No,,,6,,FALSE
+Data Governance,No,,,6,,FALSE
+Mobile Analytics,No,,,6,,FALSE
+PHP,No,,,6,,TRUE
+Presentations,No,,,6,,FALSE
+Reporting,No,,,6,,TRUE
+Reporting Automation,No,,,6,,FALSE
+Retargeting,No,,,6,,FALSE
+Vendor Evaluation,No,,,6,,FALSE
+Webtrends,No,,,6,,TRUE
+Artificial Intelligence,No,,,5,,FALSE
+B2B,No,,,5,,FALSE
+Conversion Rate Optimization(CRO),No,,,5,,TRUE
+data warehousing,No,,,5,,TRUE
+Digital Analytics,No,,,5,,TRUE
+DSP,No,,,5,,TRUE
+Process Improvement,No,,,5,,FALSE
+Product Management,No,,,5,,FALSE
+Data Analysis,No,,,4,,FALSE
+DTM,No,,,4,,TRUE
+HTML5,No,,,4,,TRUE
+Leadership,No,,,4,,TRUE
+Management,No,,,4,,TRUE
+Market research,No,,,4,,TRUE
+marketing,No,,,4,,TRUE
+PPC,No,,,4,,TRUE
+Programmatic Analytics,No,,,4,,FALSE
+Regression,No,,,4,,TRUE
+Social Media,No,,,4,,TRUE
+Surveys,No,,,4,,FALSE
+user experience,No,,,4,,TRUE
+VBA,No,,,4,,FALSE
+Vendor Negotiation,No,,,4,,FALSE
+Visual Website Optimizer,No,,,4,,TRUE
+a/b testing,No,A/B Testing,,3,,TRUE
+B2C,No,,,3,,FALSE
+C,No,,,3,,TRUE
+C++,No,,,3,,TRUE
+Content Strategy,No,,,3,,TRUE
+Data Monetisation,No,,,3,,TRUE
+data visualisation,No,,,3,user,FALSE
+DAX,No,,,3,,TRUE
+ETL,No,,,3,user,FALSE
+GDPR,No,,,3,,TRUE
+HADOOP,No,,,3,user,FALSE
+Java,No,,,3,,TRUE
+jquery,No,,,3,,TRUE
+Linux,No,,,3,,TRUE
+Micro-segmentation,No,,,3,,FALSE
+MongoDB,No,,,3,,TRUE
+Observe Point,No,,,3,,FALSE
+Personalisation,No,,,3,user,FALSE
+PROGRAMMATIC,No,,,3,,TRUE
+ROI Reporting,No,,,3,,FALSE
+Sales,No,,,3,,TRUE
+SEM,No,,,3,,TRUE
+Solution Design,No,,,3,,FALSE
+Statistical Modeling,No,,,3,user,FALSE
+strategy,No,,,3,,TRUE
+UX,No,,,3,,TRUE
+ad servers,No,,,2,,TRUE
+AdTech,No,,,2,user,FALSE
+Advertising,No,,,2,,TRUE
+affiliate marketing,No,,,2,,TRUE
+API,No,,,2,,TRUE
+Big Query,No,BigQuery,,2,,TRUE
+BigQuery,No,,,2,,TRUE
+blockchain,No,,,2,user,FALSE
+Business Analytics,No,,,2,,FALSE
+Business Development,No,,,2,,TRUE
+Closed Loop Analytics,No,,,2,,FALSE
+communications,No,,,2,,TRUE
+conversion rate optimisation,No,,,2,,TRUE
+customer loyalty,No,,,2,,TRUE
+Data,No,,,2,,TRUE
+Data Analytics,No,,,2,,TRUE
+Data Engineering,No,,,2,,TRUE
+Data Pipelines,No,,,2,,FALSE
+Data Wrangling,No,,,2,user,FALSE
+data-driven marketing,No,,,2,,TRUE
+Database Administration,No,,,2,,FALSE
+deep learning,No,,,2,user,FALSE
+digital advertising,No,,,2,,TRUE
+Display Advertising,No,,,2,,TRUE
+DMPs,No,,,2,,TRUE
+Dynamic Creative,No,,,2,,TRUE
+E-commerce,No,,,2,user,FALSE
+eCommerce,No,,,2,,TRUE
+Email Marketing,No,,,2,user,FALSE
+Factor Analysis,No,,,2,user,FALSE
+financial planning,No,,,2,,TRUE
+Go To Market,No,,,2,user,FALSE
+growth marketing,No,,,2,,TRUE
+jQuery,No,,,2,,FALSE
+Look-alike modelling,No,,,2,,FALSE
+Mobile Advertising,No,,,2,,TRUE
+Multivariate Testing,No,,,2,user,FALSE
+MySQL,No,,,2,user,FALSE
+Nodejs,No,,,2,,TRUE
+Operations,No,,,2,,TRUE
+predictive analytics,No,,,2,,TRUE
+Predictive Modeling,No,,,2,user,FALSE
+Program Management,No,,,2,,TRUE
+Qualitative Research,No,,,2,,FALSE
+R programming,No,,,2,user,FALSE
+Retail,No,,,2,user,FALSE
+sap,No,,,2,,TRUE
+Search Engine Optimization,No,,,2,,TRUE
+segmentation,No,,,2,,TRUE
+Social Media Marketing,No,,,2,user,FALSE
+Software Development,No,,,2,,TRUE
+SQL Server,No,,,2,,TRUE
+SSP,No,,,2,user,FALSE
+Tag Management Systems,No,,,2,user,FALSE
+Targeting,No,,,2,,TRUE
+Team Management,No,,,2,user,FALSE
+Technical SEO,No,,,2,,TRUE
+testing,No,,,2,,TRUE
+text analytics,No,,,2,,TRUE
+tracking,No,,,2,,TRUE
+usability,No,,,2,,TRUE
+usability testing,No,,,2,,TRUE
+ux testing,No,,,2,,TRUE
+Vendor Management,No,,,2,user,FALSE
+.NET,No,,,1,user,FALSE
+1st party data,No,,,1,,TRUE
+2nd party data,No,,,1,,TRUE
+3rd party audience data,No,,,1,user,FALSE
+3rd party data,No,,,1,,TRUE
+A/B/n & Multivariate testing,No,A/B Testing,,1,user,FALSE
+AARRR metrics,No,,,1,,TRUE
+Access,No,,,1,user,FALSE
+Account Management,No,,,1,,TRUE
+Acquisition Marketing,No,,,1,user,FALSE
+Activation Strategy,No,,,1,user,FALSE
+Actuarial,No,,,1,user,FALSE
+ad effectiveness measurement,No,Ad Effectiveness Measurement,,1,,TRUE
+ad fraud,No,,,1,user,FALSE
+ad serving,No,,,1,,TRUE
+Ad Tech,No,,,1,user,FALSE
+ad tech vendor analysis,No,,,1,user,FALSE
+Ad technology assessment and selection,No,,,1,user,FALSE
+Ad verification,No,,,1,,TRUE
+adometry (attribution),No,Adometry,,1,,TRUE
+Adservers,No,,,1,,TRUE
+Advance excel,No,Advanced Excel,,1,user,FALSE
+Advanced digital analytics,No,,,1,user,FALSE
+advertising operations,No,,,1,,TRUE
+advertising technologies,No,,,1,,TRUE
+Advertising Technology,No,,,1,user,FALSE
+Agency Ad Server,No,,,1,user,FALSE
+Agile,No,,,1,user,FALSE
+Agile practices,No,,,1,user,FALSE
+agile project management,No,,,1,,TRUE
+analytic,No,,,1,user,FALSE
+analytic analysis,No,,,1,,TRUE
+analytics analysis,No,,,1,,TRUE
+analytics configuration,No,,,1,user,FALSE
+analytics deployment,No,,,1,user,FALSE
+analytics management,No,,,1,user,FALSE
+analytics specification,No,,,1,user,FALSE
+Analytics Tool set-up,No,,,1,user,FALSE
+Angular,No,,,1,,TRUE
+App Measurement,No,,,1,,TRUE
+Application Services,No,,,1,user,FALSE
+Architecture,No,,,1,,TRUE
+AT Internet,No,,,1,user,FALSE
+attribution,No,,,1,,TRUE
+attribution platforms,No,,,1,,TRUE
+Audience insights,No,,,1,job,FALSE
+Audience strategy,No,,,1,user,FALSE
+AudienceStream,No,,,1,,TRUE
+Auditing,No,,,1,,TRUE
+Automation,No,,,1,user,FALSE
+Bayesian Statistics,No,,,1,user,FALSE
+Best practices and knowledge transfer,No,,,1,user,FALSE
+bid managers,No,,,1,,TRUE
+big data analytics,No,,,1,,TRUE
+Biostatistics,No,,,1,user,FALSE
+Board advisory member,No,,,1,user,FALSE
+brand development,No,,,1,,TRUE
+brand strategy,No,,,1,user,FALSE
+Branding,No,,,1,,TRUE
+Business Analysis,No,,,1,user,FALSE
+business analyst,No,,,1,,TRUE
+Business Calculations,No,,,1,,TRUE
+Business forecast,No,,,1,user,FALSE
+Business objects,No,,,1,user,FALSE
+Business Planning,No,,,1,user,FALSE
+Business Process Automation,No,,,1,user,FALSE
+Business Process Improvement,No,,,1,user,FALSE
+Business Processes,No,,,1,user,FALSE
+Business transformation,No,,,1,user,FALSE
+Buyer Personas,No,,,1,user,FALSE
+campaign monitor,No,,,1,,TRUE
+Campaign Optimization,No,,,1,user,FALSE
+capability assessment,No,,,1,user,FALSE
+Capacity Management,No,,,1,,TRUE
+Capacity Optimization,No,,,1,,TRUE
+CartoDB,No,,,1,,TRUE
+Causal Analysis,No,,,1,user,FALSE
+CCP,No,,,1,,TRUE
+CDP,No,,,1,user,FALSE
+Cell and Molecular Biology,No,,,1,user,FALSE
+Choice Modeling,No,,,1,user,FALSE
+CISSP,No,,,1,,TRUE
+CITP,No,,,1,,TRUE
+Classy,No,,,1,,TRUE
+Client Communication,No,,,1,,TRUE
+Cloud Conversion,No,,,1,user,FALSE
+Cluster Analysis,No,,,1,user,FALSE
+Clustering,No,,,1,,TRUE
+COBOL,No,,,1,user,FALSE
+cognitive walkthroughs,No,,,1,user,FALSE
+Commercial leadership,No,,,1,user,FALSE
+Commercial modelling - advice & implementation,No,,,1,user,FALSE
+commercial strategy,No,,,1,user,FALSE
+Communication,No,,,1,,TRUE
+Competitive intelligence benchmarking & evaluation,No,,,1,user,FALSE
+Competitor Analysis,No,,,1,user,FALSE
+Complex Problem Solving,No,,,1,user,FALSE
+Conjoint Analysis,No,,,1,user,FALSE
+Constant Contact,No,,,1,,FALSE
+Consultancy,No,,,1,,TRUE
+Consulting,No,,,1,user,FALSE
+Consumer & Market Insights,No,,,1,user,FALSE
+Consumer Marketing,No,,,1,user,FALSE
+ContactForms123,No,,,1,,TRUE
+Content Development,No,,,1,user,FALSE
+Content Management,No,,,1,user,FALSE
+content optimisation,No,,,1,user,FALSE
+Content Personalisation,No,,,1,,TRUE
+Content Planning,No,,,1,user,FALSE
+Content Square,No,,,1,user,FALSE
+content writing,No,,,1,user,FALSE
+Contract negotiation,No,,,1,user,FALSE
+conversion analysis,No,,,1,,TRUE
+conversion audits,No,,,1,,TRUE
+conversion optimisation,No,,,1,,TRUE
+cookies,No,,,1,,TRUE
+Copywriting,No,,,1,user,FALSE
+Correspondence Analysis,No,,,1,user,FALSE
+Critical Thinking,No,,,1,user,FALSE
+CRM & Email Marketing,No,,,1,user,FALSE
+CRM Integration,No,,,1,user,FALSE
+CRM Strategy,No,,,1,user,FALSE
+CRO,No,,,1,user,FALSE
+CRO Programme,No,,,1,user,FALSE
+cross device graphs,No,,,1,,TRUE
+Cross-channel analysis,No,,,1,,TRUE
+Cross-functional Leadership,No,,,1,user,FALSE
+CSS3,No,,,1,,TRUE
+Customer Acquisition,No,,,1,user,FALSE
+Customer advocacy program development,No,,,1,user,FALSE
+customer analytics,No,,,1,user,FALSE
+Customer Decision Journeys,No,,,1,user,FALSE
+customer experience,No,,,1,,TRUE
+customer experience optimization,No,,,1,,TRUE
+Customer Identity Resolution,No,,,1,user,FALSE
+customer insight,No,,,1,,TRUE
+Customer intelligence,No,,,1,,TRUE
+customer journeys,No,,,1,,TRUE
+Customer Management,No,,,1,,TRUE
+Customer relationship management,No,,,1,user,FALSE
+d3.js,No,,,1,user,FALSE
+dashboarding,No,,,1,user,FALSE
+Data & Analytics,No,,,1,,TRUE
+data activation,No,,,1,,TRUE
+data aggregation,No,,,1,,TRUE
+Data analysis and visualisation,No,,,1,user,FALSE
+Data Cleansing,No,,,1,,TRUE
+Data Collection,No,,,1,user,FALSE
+data feeds,No,,,1,,TRUE
+data governance,No,,,1,,TRUE
+Data Import/Export,No,,,1,user,FALSE
+Data Integration,No,,,1,user,FALSE
+data management,No,,,1,,TRUE
+data management platform,No,,,1,,TRUE
+Data Manipulation,No,,,1,user,FALSE
+Data migration,No,,,1,,TRUE
+data mining,No,,,1,,TRUE
+Data modelling,No,,,1,,TRUE
+data monetization,No,,,1,user,FALSE
+Data Monetization Planning,No,,,1,user,FALSE
+Data Onboarding,No,,,1,,TRUE
+Data Partnerships,No,,,1,user,FALSE
+Data Privacy,No,,,1,user,FALSE
+Data Product,No,,,1,user,FALSE
+Data Quality Audit,No,,,1,user,FALSE
+data science,No,,,1,,TRUE
+Data Segmentation,No,,,1,user,FALSE
+Data strategy & transformation programs,No,,,1,user,FALSE
+Data Studio,No,,,1,user,FALSE
+Data Vault,No,,,1,,TRUE
+Data Visulization,No,,,1,user,FALSE
+Data Warehouse,No,,,1,,TRUE
+Database performance tuning,No,,,1,,TRUE
+DB2,No,,,1,user,FALSE
+DCM,No,,,1,,TRUE
+DDL,No,,,1,,TRUE
+Decision Trees,No,,,1,,TRUE
+Deductive Hypothesis Testing,No,,,1,user,FALSE
+Define Metrics,No,,,1,user,FALSE
+Define Strategy,No,,,1,user,FALSE
+Delivery Management,No,,,1,,TRUE
+demand side platforms,No,,,1,,TRUE
+Design Assurance,No,,,1,,TRUE
+Design Authority,No,,,1,,TRUE
+DevOps,No,,,1,,FALSE
+digital ad measurement,No,,,1,,TRUE
+Digital advertising Strategy,No,,,1,user,FALSE
+Digital Analytics Audit,No,,,1,user,FALSE
+Digital Analytics Training,No,,,1,user,FALSE
+Digital Marketing Analytics,No,,,1,,TRUE
+Digital Marketing and New Channels Adoption,No,,,1,user,FALSE
+Digital Marketing Strategy,No,,,1,user,FALSE
+Digital Media,No,,,1,,TRUE
+Digital Media (Including display and video advertising),No,,,1,user,FALSE
+Digital media channel tracking & optimisation,No,,,1,user,FALSE
+Digital Roadmaps,No,,,1,user,FALSE
+discovery workshops,No,,,1,,TRUE
+DMP Best Practice,No,,,1,user,TRUE
+DMP Implementation,No,,,1,,TRUE
+DMP Management,No,,,1,,TRUE
+DMP Training,No,,,1,,TRUE
+Documentation,No,,,1,,TRUE
+Domo certified,No,,,1,user,FALSE
+double verify,No,,,1,,TRUE
+DPA,No,,,1,,TRUE
+Dreamweaver,No,,,1,user,FALSE
+E-mail retargeting,No,,,1,,TRUE
+ecommerce strategy,No,,,1,user,FALSE
+Ecosystem,No,,,1,user,FALSE
+EDI,No,,,1,user,FALSE
+ElasticSearch,No,,,1,user,FALSE
+ELT,No,,,1,,TRUE
+Email,No,,,1,,TRUE
+Email Marketing Automation,No,,,1,,TRUE
+EMC Isilon,No,,,1,,TRUE
+Engineering,No,,,1,user,FALSE
+Enhanced Ecommerce,No,,,1,,TRUE
+Ensemble Methods,No,,,1,,TRUE
+Enterprise Architecture,No,,,1,,TRUE
+Entrepreneurship,No,,,1,user,FALSE
+ETL design and implementation,No,,,1,,TRUE
+Euromonitor,No,,,1,user,FALSE
+Event Tracking,No,,,1,,TRUE
+EViews,No,,,1,user,FALSE
+Experimental Desings,No,,,1,user,FALSE
+Expert in the video market - commercialisation,No,,,1,user,FALSE
+Exploration workshops,No,,,1,,TRUE
+Feature Vision,No,,,1,user,FALSE
+Finance,No,,,1,,TRUE
+Financial Modeling,No,,,1,user,FALSE
+FMCG & Luxury Beauty experience,No,,,1,user,FALSE
+forecasting and scoping,No,,,1,,TRUE
+Fraud,No,,,1,user,FALSE
+fullstack marketing,No,,,1,,TRUE
+Gap analysis,No,,,1,user,FALSE
+Generating insights,No,,,1,user,FALSE
+Gensim,No,,,1,,TRUE
+geomapping,No,,,1,user,FALSE
+GFK,No,,,1,user,FALSE
+Global Strategies and Operations,No,,,1,user,FALSE
+Golang,No,,,1,user,FALSE
+Googlel Apps Script,No,,,1,,TRUE
+Graphic Design,No,,,1,user,FALSE
+growth strategy,No,,,1,,TRUE
+Healthcare,No,,,1,user,FALSE
+Heat Maps,No,,,1,,TRUE
+Hedge Fund,No,,,1,user,FALSE
+Heuristic Analysis,No,,,1,user,FALSE
+Heuristics,No,,,1,user,FALSE
+High level introductions / connections,No,,,1,user,FALSE
+Higher Logic,No,,,1,,TRUE
+HTML Scripting,No,,,1,user,FALSE
+hyperlocal,No,,,1,,TRUE
+ICS,No,,,1,,TRUE
+IMAP extensions,No,,,1,,TRUE
+Implementation,No,,,1,,TRUE
+Implementation Management,No,,,1,,TRUE
+Improvement,No,,,1,,TRUE
+inbound marketing,No,,,1,user,FALSE
+Inbound marketing certified,No,,,1,user,FALSE
+Inductive Data Discovery,No,,,1,user,FALSE
+Infinity Call Tracking,No,,,1,user,FALSE
+Information Security,No,,,1,,TRUE
+innovation,No,,,1,user,FALSE
+Innovative Solutions,No,,,1,user,FALSE
+insight,No,,,1,user,FALSE
+insights,No,,,1,,TRUE
+inspiration talks,No,,,1,user,FALSE
+integral ad science,No,,,1,,TRUE
+integrated marketing,No,,,1,,TRUE
+Integrating tech platforms,No,,,1,user,FALSE
+Integration,No,,,1,user,FALSE
+Interim management / GM cover,No,,,1,user,FALSE
+International Expansion,No,,,1,user,FALSE
+Internet research,No,,,1,user,FALSE
+invalid traffic,No,,,1,user,FALSE
+inventory selection,No,,,1,user,FALSE
+iOS,No,,,1,user,FALSE
+IRI/Nielsen (POS and Shopper Panel data),No,,,1,user,FALSE
+ISF,No,,,1,,TRUE
+ISO27001,No,,,1,,TRUE
+Item Response Theory,No,,,1,user,FALSE
+J2ME,No,,,1,,TRUE
+javascipt,No,,,1,,TRUE
+JavaScript/jquery,No,,,1,,TRUE
+JS,No,,,1,user,FALSE
+JVM,No,,,1,,TRUE
+KNIME,No,,,1,user,FALSE
+KPI building,No,,,1,,TRUE
+KPI workshops,No,,,1,user,FALSE
+KPIs,No,,,1,user,FALSE
+Landing Page Optimisation,No,,,1,,TRUE
+Landing Page Optimiztion,No,,,1,,TRUE
+Landing Pages,No,,,1,,TRUE
+Latent Class,No,,,1,user,FALSE
+Lead Forensics,No,,,1,user,FALSE
+lead gen,No,,,1,,TRUE
+Lead generation,No,,,1,user,FALSE
+Learning and development,No,,,1,user,FALSE
+learning Python & Google Analytics,No,,,1,user,FALSE
+Low Latency,No,,,1,user,FALSE
+Loyalty,No,,,1,user,FALSE
+lua,No,,,1,,TRUE
+M&A scoping,No,,,1,,TRUE
+Macro-segmentation,No,,,1,,TRUE
+Management consulting,No,,,1,user,FALSE
+Market Analysis and Entry Strategy,No,,,1,user,FALSE
+market assessment,No,,,1,,TRUE
+Market entry (UK & EMEA),No,,,1,user,FALSE
+market scoping,No,,,1,,TRUE
+market sizing,No,,,1,,TRUE
+market trend analysis,No,,,1,,TRUE
+Marketing Audit,No,,,1,user,FALSE
+Marketing Data Audits,No,,,1,user,FALSE
+Marketing Mix Modeling,No,,,1,user,FALSE
+Marketing Mix Modelling,No,,,1,user,FALSE
+Marketing performance evalutation,No,,,1,user,FALSE
+Marketing ROI,No,,,1,user,FALSE
+Martech,No,,,1,user,FALSE
+MBOs,No,,,1,user,FALSE
+MDX,No,,,1,,TRUE
+ME-XL,No,,,1,user,FALSE
+MeaningCloud text analytics,No,,,1,,TRUE
+Measurement Planning,No,,,1,user,FALSE
+Measurement Protocol,No,,,1,,TRUE
+Measurment Strategy,No,,,1,,TRUE
+Media Buying,No,,,1,,TRUE
+media buying and selling,No,,,1,user,FALSE
+media investment,No,,,1,user,FALSE
+media monetization.,No,,,1,user,FALSE
+Media planning & Buying,No,,,1,user,FALSE
+media planning currencies,No,,,1,,TRUE
+media planning software,No,,,1,,TRUE
+media sales,No,,,1,,TRUE
+Media Strategy,No,,,1,user,FALSE
+Medicine,No,,,1,user,FALSE
+Mentoring,No,,,1,user,FALSE
+Messaging,No,,,1,user,FALSE
+Meta-Analysis,No,,,1,user,FALSE
+Metrics,No,,,1,user,FALSE
+Minitab,No,,,1,user,FALSE
+MIS,No,,,1,user,FALSE
+Mixture Modeling,No,,,1,user,FALSE
+ML,No,,,1,user,FALSE
+mobile analytics,No,,,1,,TRUE
+Mobile Applications,No,,,1,user,FALSE
+Mobile Devices,No,,,1,user,FALSE
+Mobile marketing,No,,,1,,TRUE
+Mobile SDKs,No,,,1,,FALSE
+Modeling,No,,,1,,TRUE
+Monte Carlo Simulations,No,,,1,user,FALSE
+Most conversion and web marketing tools,No,,,1,user,FALSE
+Mplus,No,,,1,user,FALSE
+Multi-Layer Management,No,,,1,user,FALSE
+multidimensional,No,,,1,,TRUE
+Multivariate Analysis,No,,,1,user,FALSE
+natural language processing,No,,,1,user,FALSE
+Networking,No,,,1,,TRUE
+neural network,No,,,1,user,FALSE
+new customer growth,No,,,1,,TRUE
+New hires assessment and selection,No,,,1,user,FALSE
+Non exec roles,No,,,1,user,FALSE
+NPD,No,,,1,user,FALSE
+Nurturing Campaigns,No,,,1,,TRUE
+offline marketing,No,,,1,,TRUE
+OKRs,No,,,1,user,FALSE
+Ometrics,No,,,1,,TRUE
+On-line retailing,No,,,1,user,FALSE
+one of the best connected person in digital D A CH,No,,,1,user,FALSE
+Online Advertising,No,,,1,,TRUE
+Online Marketing,No,,,1,user,FALSE
+Optimisation,No,,,1,,TRUE
+Optimization,No,,,1,,TRUE
+Organizational Readiness,No,,,1,user,FALSE
+outbound marketing,No,,,1,user,FALSE
+Overseeing recruitment for senior role,No,,,1,user,FALSE
+Pandas,No,,,1,user,FALSE
+Panel/Longitudinal Modeling,No,,,1,user,FALSE
+PCA,No,,,1,user,FALSE
+PDF extraction,No,,,1,user,FALSE
+people mentoring,No,,,1,,TRUE
+performance,No,,,1,,TRUE
+Performance analysis,No,,,1,user,FALSE
+Performance Marketing,No,,,1,user,FALSE
+perl,No,,,1,,TRUE
+Personalisation strategy,No,,,1,user,FALSE
+Personalization,No,,,1,user,FALSE
+Physical Security,No,,,1,,TRUE
+Physics,No,,,1,user,FALSE
+PKI,No,,,1,,TRUE
+PMO,No,,,1,,TRUE
+PnL,No,,,1,,TRUE
+Pop-ups,No,,,1,,TRUE
+Portfolio Management,No,,,1,,TRUE
+Positioning,No,,,1,user,FALSE
+PostgreSQL,No,,,1,,TRUE
+Power Query,No,,,1,,TRUE
+Pre-Sales,No,,,1,,TRUE
+Predictive Intelligence,No,,,1,user,FALSE
+Presentation,No,,,1,,TRUE
+Price Modeling,No,,,1,user,FALSE
+Pricing Research,No,,,1,user,FALSE
+primary research,No,,,1,,TRUE
+privacy,No,,,1,user,FALSE
+Probability,No,,,1,user,FALSE
+Procurement,No,,,1,user,FALSE
+Product / programmatic advisory,No,,,1,user,FALSE
+Product Analytics,No,,,1,,TRUE
+product commercialization,No,,,1,user,FALSE
+Product Launch,No,,,1,user,FALSE
+Product launch -  take to market strategy,No,,,1,user,FALSE
+Product launch - introductions,No,,,1,user,FALSE
+Product launch - resourcing,No,,,1,user,FALSE
+Product launch advice,No,,,1,user,FALSE
+Product Marketing,No,,,1,user,FALSE
+product optimisation,No,,,1,,TRUE
+Product RoadMap,No,,,1,user,FALSE
+professional development,No,,,1,user,FALSE
+Programmatic advertising,No,,,1,,TRUE
+programmatic analytics,No,,,1,,TRUE
+Programmatic integration,No,,,1,user,FALSE
+Programmatic know-how & training,No,,,1,user,FALSE
+Programmatic Planning,No,,,1,user,FALSE
+programming,No,,,1,,TRUE
+project directing,No,,,1,,TRUE
+Project Planning,No,,,1,,TRUE
+Project scoping,No,,,1,,TRUE
+Project sizing,No,,,1,,TRUE
+Propensity Score Analysis,No,,,1,user,FALSE
+prototyping,No,,,1,,TRUE
+Psychology,No,,,1,,TRUE
+Psychometrics,No,,,1,user,FALSE
+Publisher Ad Server,No,,,1,user,FALSE
+Publisher Development,No,,,1,user,FALSE
+Publishing,No,,,1,user,FALSE
+Quantitative Research,No,,,1,user,FALSE
+Questionnaire Development,No,,,1,user,FALSE
+Random Forests,No,,,1,,TRUE
+React,No,,,1,,TRUE
+Real estate,No,,,1,user,FALSE
+Real-Time Dashboards,No,,,1,user,FALSE
+Recommendation strategy,No,,,1,user,FALSE
+Reporting Tool Administration,No,,,1,,FALSE
+Requirements Engineering,No,,,1,,TRUE
+Requirements gathering,No,,,1,,TRUE
+Research Design,No,,,1,user,FALSE
+research papers,No,,,1,user,FALSE
+Resources Management,No,,,1,,TRUE
+Resources Optimization,No,,,1,,TRUE
+Resourcing & team structure,No,,,1,user,FALSE
+Retention Marketing,No,,,1,user,FALSE
+Revenue growth,No,,,1,user,FALSE
+Revenue Optimisations,No,,,1,user,FALSE
+RFP Development,No,,,1,user,FALSE
+Risk,No,,,1,user,FALSE
+Risk Assessment,No,,,1,,TRUE
+ROI and Efficiency,No,,,1,user,FALSE
+Root Cause Analysis,No,,,1,user,FALSE
+RTB,No,,,1,,TRUE
+Rubicon,No,,,1,user,FALSE
+Ruby,No,,,1,user,FALSE
+Saas,No,,,1,,TRUE
+Saas Marketing,No,,,1,,TRUE
+Sales Enablement,No,,,1,user,FALSE
+Sales Force Automation,No,,,1,user,FALSE
+Sales Leadership,No,,,1,,TRUE
+sales operations,No,,,1,user,FALSE
+Sales/BD training,No,,,1,user,FALSE
+Sampling,No,,,1,user,FALSE
+scale generation,No,,,1,user,FALSE
+Scoring,No,,,1,,TRUE
+SDLC,No,,,1,user,FALSE
+Search Engine Optimisation,No,,,1,,TRUE
+Search Marketing,No,,,1,user,FALSE
+Search Marketing (SEO/PPC),No,,,1,user,FALSE
+security,No,,,1,,TRUE
+Segmentation/Regression Analysis,No,,,1,user,FALSE
+Semantic Targeting,No,,,1,,TRUE
+SEO Audit,No,,,1,,TRUE
+SEOTools,No,,,1,,TRUE
+Service Delivery,No,,,1,user,FALSE
+SessionCam,No,,,1,,FALSE
+SharePoint,No,,,1,user,FALSE
+SharePoint Online,No,,,1,,TRUE
+Shell Scripting,No,,,1,user,FALSE
+Similarity Measures,No,,,1,,TRUE
+SimilarWeb,No,,,1,,FALSE
+Simplifying claim process,No,,,1,user,FALSE
+site navigation optimisation,No,,,1,user,FALSE
+site performance diagnostics,No,,,1,user,FALSE
+site search optimisation,No,,,1,user,FALSE
+Social,No,,,1,user,FALSE
+Social influence analysis,No,,,1,user,FALSE
+Social listening and text analytic,No,,,1,user,FALSE
+Social Marketing,No,,,1,user,FALSE
+Social Marketing & Media,No,,,1,user,FALSE
+social media analytics,No,,,1,user,FALSE
+social media intelligence,No,,,1,user,FALSE
+Social Media Strategist,No,,,1,user,FALSE
+Social Media Strategy,No,,,1,,TRUE
+Social Network Analysis,No,,,1,user,FALSE
+Social strategy and operations,No,,,1,user,FALSE
+Software,No,,,1,user,FALSE
+Software Dev Management,No,,,1,,TRUE
+Software Marketing,No,,,1,,TRUE
+Software Project Management,No,,,1,,TRUE
+Software Selection,No,,,1,user,FALSE
+Solution architecture,No,,,1,,TRUE
+Solution Delivery,No,,,1,user,FALSE
+specifications,No,,,1,user,FALSE
+Split Testing,No,,,1,user,FALSE
+Sponsorship Evaluation,No,,,1,user,FALSE
+Spring Framework,No,,,1,,TRUE
+Star & snowflake schema,No,,,1,,TRUE
+start-up lean processes,No,,,1,,TRUE
+Stata,No,,,1,user,FALSE
+Statistical Analysis,No,,,1,user,FALSE
+statistical model building,No,,,1,user,FALSE
+Statistical Modelling,No,,,1,user,FALSE
+Statistical reports,No,,,1,user,FALSE
+Sterring Committees,No,,,1,,TRUE
+Stock Control,No,,,1,user,FALSE
+Storage,No,,,1,,TRUE
+Store Testing (ANOVA),No,,,1,user,FALSE
+stored procedure,No,,,1,,TRUE
+Storytelling,No,,,1,,TRUE
+strategic analysis,No,,,1,,TRUE
+Strategic Data & Technology Consultancy,No,,,1,user,FALSE
+strategic partnerships,No,,,1,,TRUE
+strategic planning,No,,,1,,TRUE
+Strategy development,No,,,1,user,FALSE
+Streaming analytics,No,,,1,user,FALSE
+stress testing,No,,,1,,TRUE
+Structural Equation Modeling,No,,,1,user,FALSE
+supply side platforms,No,,,1,,TRUE
+Survey,No,,,1,user,FALSE
+survey analysis,No,,,1,,TRUE
+survey scripting,No,,,1,,TRUE
+survey software,No,,,1,,TRUE
+Survival Analysis,No,,,1,user,FALSE
+T-SQL,No,,,1,,TRUE
+tabular,No,,,1,,TRUE
+tag management platforms,No,,,1,,TRUE
+Talent Acquisition,No,,,1,user,FALSE
+Talent Identification,No,,,1,user,FALSE
+Targeting and Database Marketing,No,,,1,user,FALSE
+TCP/IP,No,,,1,user,FALSE
+Technology,No,,,1,,TRUE
+technology adoption,No,,,1,,TRUE
+technology deployment,No,,,1,,TRUE
+Technology Evaluation,No,,,1,user,FALSE
+technology selection,No,,,1,,TRUE
+Tensorflow,No,,,1,user,FALSE
+test & learn,No,,,1,,TRUE
+Test Design,No,,,1,user,FALSE
+Test Management,No,,,1,,TRUE
+Testing,No,,,1,,FALSE
+thought leadership,No,,,1,user,FALSE
+Time series analysis,No,,,1,,TRUE
+Time-Series Analysis,No,,,1,user,FALSE
+TIVOLI,No,,,1,user,FALSE
+Tracking and Optimization,No,,,1,user,FALSE
+Tracking First,No,,,1,user,FALSE
+tracking strategy,No,,,1,user,FALSE
+Traction,No,,,1,user,FALSE
+trade marketing and PR,No,,,1,,TRUE
+Trading,No,,,1,user,FALSE
+Transformation,No,,,1,,TRUE
+Two-sided business models,No,,,1,user,FALSE
+U-SQL,No,,,1,,TRUE
+UDP,No,,,1,user,FALSE
+UI,No,,,1,,TRUE
+Unsupervised Learning,No,,,1,,TRUE
+User Acquisition,No,,,1,,TRUE
+User Experience Designer,No,,,1,user,FALSE
+User experience evaluation,No,,,1,user,FALSE
+User testing,No,,,1,,TRUE
+UX/ UI Designer,No,,,1,user,FALSE
+UX/UI Design,No,,,1,user,FALSE
+Vendor Negotiations,No,,,1,user,FALSE
+Video Advertising,No,,,1,user,FALSE
+video analytics,No,,,1,user,FALSE
+Video Syndication,No,,,1,user,FALSE
+viewabilitiy platforms,No,,,1,,TRUE
+visualization,No,,,1,,TRUE
+Voice of customer evaluation - NPS|C-SAT|opinion surveys,No,,,1,user,FALSE
+Web Analytics Solution Delivery,No,,,1,user,FALSE
+Web applications,No,,,1,user,FALSE
+Web Development,No,,,1,,TRUE
+Website Conversion,No,,,1,,TRUE
+Wireframes,No,,,1,,TRUE
+workflow automation,No,,,1,user,FALSE
+Workshop,No,,,1,,TRUE
+workshops,No,,,1,user,FALSE
+XML,No,,,1,,TRUE
+XSD,No,,,1,,TRUE
+Yield Management,No,,,1,user,FALSE

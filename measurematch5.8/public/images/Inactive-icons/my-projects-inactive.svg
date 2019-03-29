@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>my-projects</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="BrowseExperts-Fixed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-481.000000, -210.000000)" opacity="0.56" stroke-linejoin="round">
+        <g id="my-projects" transform="translate(482.000000, 211.000000)" stroke="#424242">
+            <path d="M19.5833333,14.5833333 C19.5833333,17.3441667 17.345,19.5833333 14.5833333,19.5833333 C11.8208333,19.5833333 9.58333333,17.3441667 9.58333333,14.5833333 C9.58333333,11.8216667 11.8208333,9.58333333 14.5833333,9.58333333 C17.345,9.58333333 19.5833333,11.8216667 19.5833333,14.5833333 L19.5833333,14.5833333 Z" id="Stroke-887"></path>
+            <path d="M13.4245,15.6835833 C13.4245,16.3235833 13.9436667,16.84275 14.5836667,16.84275 C15.2228333,16.84275 15.742,16.3235833 15.742,15.6835833 C15.742,15.0435833 15.2228333,14.52275 14.5836667,14.52275 C13.9436667,14.52275 13.4245,14.00525 13.4245,13.3644167 C13.4245,12.7244167 13.9436667,12.20525 14.5836667,12.20525 C15.2228333,12.20525 15.742,12.7244167 15.742,13.3644167" id="Stroke-888" stroke-linecap="round"></path>
+            <path d="M14.5833333,16.8424167 L14.5833333,17.6140833" id="Stroke-889" stroke-linecap="round"></path>
+            <path d="M14.5833333,11.43225 L14.5833333,12.2055833" id="Stroke-890" stroke-linecap="round"></path>
+            <path d="M2.91666667,5.41666667 L6.66666667,5.41666667" id="Stroke-891" stroke-linecap="round"></path>
+            <path d="M2.91666667,7.91666667 L9.58333333,7.91666667" id="Stroke-892" stroke-linecap="round"></path>
+            <path d="M2.91666667,10.4166667 L7.91666667,10.4166667" id="Stroke-893" stroke-linecap="round"></path>
+            <path d="M2.91666667,12.9166667 L7.08333333,12.9166667" id="Stroke-894" stroke-linecap="round"></path>
+            <polyline id="Stroke-895" stroke-linecap="round" points="8.75 17.9166667 0.416666667 17.9166667 0.416666667 0.416666667 9.58333333 0.416666667 13.75 4.58333333 13.75 7.91666667"></polyline>
+            <polyline id="Stroke-896" stroke-linecap="round" points="9.58333333 0.416666667 9.58333333 4.58333333 13.75 4.58333333"></polyline>
+        </g>
+    </g>
+</svg>

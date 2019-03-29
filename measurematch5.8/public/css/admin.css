@@ -1,0 +1,1043 @@
+.margin-top-10{margin-top:10px;}
+.margin-bottom-10{margin-bottom:10px !important;}
+.margin-bottom-20{margin-bottom:20px !important;}
+.no-border{border:0 !important;}
+.margin-0{margin:0!important}
+.margin-top-0{margin-top:0 !important}
+.margin-bottom-0{margin-bottom:0 !important}
+.gilroyregular-bold-font{font-family:gilroybold !important; font-weight: normal;}
+.gilroyregular-font{font-family:gilroyregular !important;}
+.link-color{ color: #1e70b7;}
+.admin-right-side .service-package-link span{ display: block; float: left; font-size: 14px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;width: 45%;}
+.copy-link-btn{ float: right; margin: -3px 0 0 0;}
+.admin-right-side .service-package-link span.success-message-of-copy-url{display: block; float: right; text-align: right; width: 100%; margin: 5px 5px 0 0; color:#3c763d; }
+#start_time_div ul {
+    padding: 0 0 0 15px;
+}
+.admin-content-panel h1,
+.admin-contract-payment-block h5,
+.export-report,
+.form-group.backBtn h2,
+.total-btn {
+    font-family: gilroybold
+}
+body {
+    background: #FFF
+}
+
+
+
+.waiting-checklist-panel .full-width-btn{
+    width: 100% !important;
+}
+
+.breadcrumb>li,
+.table-bordered>tbody>tr>td,
+.table-bordered>tbody>tr>th,
+.table-bordered>tfoot>tr>td,
+.table-bordered>tfoot>tr>th,
+.table-bordered>thead>tr>td,
+.table-bordered>thead>tr>th {
+    font-size: 14px;
+}
+.header_signup {
+    background: #fff;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .12);
+    float: left;
+    min-height: 60px;
+    position: inherit;
+    top: 0;
+    width: 100%
+}
+.breadcrumb {
+    width: 100%;
+    float: left;
+    margin: 0 0 24px;
+    background: transparent;
+    padding: 0;
+}
+.nav-logo-white,
+.nav-logo-white:focus {
+    margin: 14px 0 0;
+    outline: 0
+}
+.admin-content-panel h1 {
+    font-size: 24px;
+    margin-bottom: 20px
+}
+.admin-login-section {
+    margin: 15% auto 0;
+    float: none;
+    background: #2160A5;
+    border-radius: 5px
+}
+.admin-login-section h2 {
+    margin: 50px 0 30px;
+    float: left;
+    width: 100%
+}
+.admin-login-section .signup_landing_page {
+    padding: 0 10% 10%
+}
+.admin-login-section .form-group label,
+.admin-login-section label {
+    color: #FFF
+}
+.admin-login-section .required-info {
+    display: block;
+    margin-bottom: 15px;
+    color: #FFF
+}
+.signu_out_btn {
+    font-size: 16px;
+    float: right
+}
+.admin-sidebar ul li a:hover {
+    background: #f1f1f1
+}
+.admin-sidebar ul {
+    list-style: none;
+    padding: 0;
+    background: #fff;
+}
+
+.admin-right-side .expert-profile-image span {
+   width: 120px;
+   height: 120px;
+}
+.admin-right-side .expert-profile-image {
+   top: 115px;
+}
+.admin-sidebar ul li {
+    border: 1px solid #ddd
+}
+.bootstrap-select>.dropdown-toggle,
+.export-report {
+    border: 1px solid rgba(68, 68, 68, .15)
+}
+.admin-sidebar ul li a {
+    display: block;
+    font-size: 14px;
+    padding: 8px 20px
+}
+.admin-sidebar ul li.active a {
+    font-weight: 700
+}
+.form-group.backBtn {
+    float: left;
+    width: 100%
+}
+.form-group.backBtn h2 {
+    float: left;
+    margin: 0 0 10px;
+    font-size: 24px
+}
+.form-group.backBtn>a {
+    float: right
+}
+.admin-right-side .form-group {
+    display: block;
+    float: left;
+    width: 100%;
+    font-size: 14px
+}
+.admin-right-side label {
+    float: left;
+    min-width: 30%;
+    max-width: 30%
+}
+
+/*.admin-right-side span {
+    font-size: 14px;
+    width:70%;
+    float: left;
+}*/
+
+.admin-right-side .Editor-container span{
+    width: auto;
+}
+
+.admin-right-side .admin-view-brief span{
+    width: auto;
+}
+
+.admin-right-side .attachments-file-section span{ width: 100% !important; text-align: center;}
+.admin-right-side #uploaded_files span.attached-file{ text-align: left;}
+.admin-right-side span.caret {
+    float: left;
+    width: auto
+}
+.admin-right-side .box-body .averge_daily div.bootstrap-select {
+    width: 39%
+}
+.admin-right-side .box-body .work_preference div.bootstrap-select {
+    width: 39%;
+    margin-right: 1%
+}
+#expertUpdate .form-group input[type=text]#daily_rate {
+    width: 40%;
+    float: right
+}
+#update_buyer .form-group input,
+.admin-right-side label {
+    font-size: 14px;
+    line-height: 16px;
+}
+.dropdown-menu>li>a {
+    float: left;
+    width: 100%
+}
+.totall-user-bar {
+    float: left;
+    width: 100%;
+    margin: 0 0 10px
+}
+.export-report {
+    color: #1E70B7;
+    text-align: center;
+    padding: 0;
+    width: auto;
+    border-radius: 3px;
+    line-height: 35px;
+    height: 35px;
+    float: left;
+    font-size: 14px;
+    border: none;
+}
+
+.export-report img {
+    float: left;
+    padding: 8px 5px 0 0;
+}
+.export-report:focus,
+.export-report:hover {
+    color: #1E70B7;
+    text-decoration: underline;
+}
+.total-btn {
+    font-size: 14px;
+    margin: 12px 0 0 10px;
+    float: left
+}
+.total-btn span {
+    color: #000
+}
+.content {
+    position: relative;
+    margin: 0
+}
+.table tr td:last-child {
+    min-width: 90px
+}
+#update_buyer .form-group input[type=text],
+.admin-right-side .form-group input[type=text] {
+    border: 1px solid rgba(68, 68, 68, .15);
+    border-radius: 3px;
+    color: #3e3c36;
+    line-height: 24px;
+    padding: 10px 15px;
+    width: 70%;
+    font-size: 14px
+}
+.admin-right-side .form-group textarea {
+    border: 1px solid rgba(68, 68, 68, .15);
+    border-radius: 3px;
+    color: #3e3c36;
+    font-size: 14px;
+    padding: 10px 15px;
+    width: 70%
+}
+
+
+.modal-innner-content .input-bx textarea {
+   font-size: 14px;
+   line-height: 22px;
+   border: 1px solid #DBDBDB;
+   border-radius: 2px;
+   background-color: #fff;
+   min-height: 113px;
+   max-height: 243px;
+   overflow: auto;
+   color: #424242;
+   width: 100%;
+   padding: 10px 15px;
+}
+
+.check-box-design input[type=checkbox]:not(old) {
+    width: 2em;
+    margin: 0;
+    padding: 0;
+    font-size: 1em;
+    opacity: 0;
+    height: 2em
+}
+.check-box-design input[type=checkbox]:not(old)+label {
+    display: inline-block;
+    margin-left: -2em;
+    line-height: 29px;
+    cursor: pointer
+}
+.check-box-design input[type=checkbox]:not(old)+label>span {
+    display: inline-block;
+    margin: .25em .5em .25em .25em;
+    background: #fff;
+    vertical-align: bottom;
+    border: 2px solid #BDBDBD
+}
+.check-box-design input[type=checkbox]:not(old):checked+label>span {
+    background: #424242;
+    border: 2px solid #424242
+}
+.check-box-design input[type=radio]:not(old):checked+label>span>span {
+    display: block;
+    width: .5em;
+    height: .5em;
+    margin: .125em;
+    border: .0625em solid #73994d;
+    border-radius: .125em;
+    background: #9c6;
+    background-image: -moz-linear-gradient(#b3d98c, #9c6);
+    background-image: -ms-linear-gradient(#b3d98c, #9c6);
+    background-image: -o-linear-gradient(#b3d98c, #9c6);
+    background-image: -webkit-linear-gradient(#b3d98c, #9c6);
+    background-image: linear-gradient(#b3d98c, #9c6)
+}
+.admin-contract-payment-block,
+.check-box-design {
+    width: 100%;
+    float: left
+}
+.check-box-design {
+    display: block;
+    position: relative;
+    margin-bottom: 15px
+}
+.project-lenth-section .job-date-picker {
+    float: left;
+    margin: 0 2% 0 0;
+    width: 27%
+}
+.project-lenth-section .job-date-picker .form-control.input-group-addon {
+    width: 100%
+}
+.admin-right-side label span {
+    width: auto;
+    display: inline;
+    float: none
+}
+.admin-contract-payment-block input[type=button] {
+    background: #1e70b7;
+    border: 1px solid rgba(68, 68, 68, .15);
+    border-radius: 3px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .18);
+    color: #fff;
+    float: left;
+    height: 40px;
+    line-height: 24px;
+    margin-right: 30px;
+    padding: 0 30px;
+    text-align: center;
+    width: auto
+}
+.admin-contract-payment-block input[type=checkbox]:not(old)+label>span,
+input[type=radio]:not(old)+label>span {
+    position: relative;
+    top: 2px;
+    background: #fff;
+    border: 1px solid rgba(68, 68, 68, .15);
+    display: inline-block;
+    height: 20px;
+    border-radius: 2px;
+    margin: .25em .5em .25em .25em;
+    vertical-align: bottom;
+    width: 20px
+}
+.admin-contract-payment-block .payment p {
+    float: left;
+    font-size: 13px;
+    margin: 0 0 10px 15px
+}
+.admin-contract-payment-block input[type=radio]:checked:not(old)+label>span>span::before {
+    color: #1E70B7;
+    content: "✓";
+    display: block;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: center;
+    text-shadow: none;
+    width: 22px
+}
+.admin-contract-payment-block input[type=radio]:not(old),
+.admin-contract-payment-block input[type=checkbox]:not(old) {
+    float: left
+}
+.admin-contract-payment-block .payment {
+    width: 100%;
+    float: left
+}
+.admin-contract-payment-block .project-rate-bx {
+    width: 27%;
+    margin-right: 2%
+}
+.admin-edit-project-section .custom-dropdown .hide-native-select {
+    width: 100%
+}
+.admin-contract-payment-block h5 {
+    margin: 10px 0 20px
+}
+#update_buyer .form-group input,
+.admin-right-side label {
+    font-family: gilroyregular;
+    font-weight: 400
+}
+.admin-edit-project-section .custom-dropdown .hide-native-select li a span.glyphicon {
+    width: auto
+}
+.admin-project-choose-catgory {
+    width: 70%;
+    float: right
+}
+.admin-edit-project-section .custom-dropdown .hide-native-select .multiselect-selected-text {
+    width: auto;
+    line-height: 25px
+}
+.admin-edit-project-section .multiselect-container>li>a>label {
+    min-width: inherit;
+    max-width: inherit;
+    width: 100%;
+    padding: 3px 20px
+}
+.admin-contract-payment-block .project-rate-bx .btn-group.bootstrap-select {
+    width: 100%
+}
+.admin-edit-project-section .form-group #uploadFile {
+    margin: 0 0 0 10px;
+    font-size: 14px
+}
+.multiselect.dropdown-toggle.btn.btn-default.btn .caret {
+    margin: 0 0 0 10px
+}
+.admin-view-brief {
+    width: 70%;
+    float: right;
+    word-wrap: break-word;
+    font-size: 14px;
+}
+.admin-edit-project-section .file-upload {
+    margin: 0 0 10px!important
+}
+.disable-button {
+    pointer-events: none;
+    opacity: .5
+}
+#project_duration {
+    margin: 0 0 10px
+}
+.published-project-action>a {
+    cursor: pointer;
+    float: left;
+    min-height: 20px;
+    min-width: 25px;
+    text-align: center
+}
+.published-project-action>a:first-child {
+    border-right: 1px solid #000;
+    margin-right: 5px;
+    padding-right: 10px
+}
+.admin-right-side table tr td label {
+    max-width: 100%
+}
+.admin-contract-payment-block .admin-post-project .post-rate-input-bx label {
+    max-width: inherit;
+    min-width: inherit;
+    width: 100%;
+    margin: 0 0 10px
+}
+.admin-contract-payment-block .admin-post-project .post-rate-input-bx {
+    width: 70%;
+    margin: 0;
+    position: relative
+}
+.admin-contract-payment-block .admin-post-project .post-rate-input-bx input[type=radio]:not(old),
+.admin-contract-payment-block .admin-post-project .post-rate-input-bx input[type=checkbox]:not(old) {
+    position: absolute;
+    left: 0
+}
+.full-width-dropdown {
+    width: 100%!important
+}
+.admin-form-lable label {
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%
+}
+.form-group .admin-form-input-bx input[type=text],
+.form-group .admin-form-input-bx textarea {
+    width: 100%
+}
+.form-group .admin-form-input-bx .deliverables {
+	margin-bottom: 15px;
+}
+.admin-validation-message {
+    color: red
+}
+.admin-form-input-bx label {
+    max-width: inherit;
+    min-width: inherit;
+    margin: 0 0 10px;
+    width: 100%
+}
+textarea {
+    resize: none
+}
+.admin-login-section .form-group .form-control[type=email],
+.admin-login-section .form-group .form-control[type=password] {
+    float: none
+}
+.buyer-admin-details-section td,
+.buyer-admin-details-section th,
+.expert-details-section td,
+.expert-details-section th {
+    max-width: 200px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+.expert-profile-image {
+    position: absolute;
+    right: 0;
+    top: 50px
+}
+.expert-profile-image span {
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    background-size: cover
+}
+.margin-top-0 {
+    margin-top: 0
+}
+.message-section {
+    margin: 10px 0 0
+}
+.admin-edit-project-section .box-body .input-bx-panel {
+	padding: 0px;
+	width: 100%;
+}
+.admin-edit-project-section .add-skill-button-block {
+	float: right;
+    max-width: 65%;
+}
+.admin-edit-project-section .tag-style .skill-button {
+	width: auto;
+}
+.admin-contract-payment-block ul{ padding: 0 0 0 13px;}
+.admin-contract-payment-block ul li{ float: left; width: 100%; margin: 0 0 10px 0;}
+.mark-project-complete-button, .mark-project-complete-button:focus, .mark-project-complete-button:hover, .send-contract, .send-contract:focus, .send-contract:hover, .update-button, .waiting-checklist-panel .editcontract, .waiting-checklist-panel .editcontract:focus, .waiting-checklist-panel .editcontract:hover{ width: auto; font-size: 14px;}
+.add-tools-button-block .skill-button, .add-skills-button-block .skill-button{ width: auto;}
+
+.admin-deliverable-right {
+  width: 70%;
+}
+
+.admin-edit-project-section .radio-button-style .radio-circle {
+  margin-top: 0;
+}
+
+.full-width {
+    width: 100% !important;
+}
+
+.admin-right-side .remove-margin {
+  margin: 0;
+}
+
+.admin-section::before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #F1F1F1;
+    width: 100%;
+    height: 132px;
+    border-bottom: 1px solid #ddd;
+    content: '';
+}
+
+.admin-section{
+    padding: 20px 0 0;
+    margin: 0 0 32px;
+}
+.box-header {
+    margin: 15px 0 24px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.box-heading {
+    color: #424242;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 40px;
+    margin: 0;
+}
+
+.fa.fa-sign-out {
+    color: #1D71B8;
+    margin: 0 0 0 5px;
+}
+
+.breadcrumb li {
+    font-size: 14px;
+    color: #686868;
+    line-height: 20px;
+}
+
+.breadcrumb li a {
+    text-decoration: underline;
+    color: #686868;
+}
+
+.breadcrumb > li + li::before {
+    content: " > ";
+    color: #424242;
+    font-weight: 600;
+}
+
+.admin-subtab{
+    margin: 0 0 24px;
+}
+.admin-subtab ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.admin-subtab ul li {
+    padding: 0 22px;
+}
+
+.admin-subtab ul li:first-child {
+    padding: 0 22px 0 0;
+}
+
+.admin-right-side .admin-subtab ul li a {
+    opacity: 0.48;
+    color: #424242;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    padding: 4px 0;
+    text-decoration: none;
+}
+
+.admin-subtab ul li a {
+    opacity: 0.48;
+    color: #424242;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    padding: 7px 0;
+    text-decoration: none;
+}
+.admin-right-side .admin-subtab ul li a {
+    text-decoration: none;
+}
+
+.admin-subtab ul li a:hover, .admin-subtab ul li a:focus, .admin-subtab ul li a.active{
+    opacity: 0.9;
+    border-bottom: 2px solid #424242;
+}
+
+.actions ul{
+    padding: 0;
+    margin: 3px 0 0;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.actions ul li {
+    padding: 0 5px;
+    border-right: 1px solid #333;
+    line-height: 14px;
+
+}
+
+.actions ul li:last-child{
+    border:none;
+}
+
+.box-body .pagination {
+    padding-left: 0;
+    margin: 0;
+    border-radius: 4px;
+    float: left;
+}
+
+.box-body .pagination > li > a, .box-body .pagination > li > span {
+    position: relative;
+    float: left;
+    padding: 3px 12px;
+}
+.admin-sidebar ul li.admin-logo-sidebar {
+    padding: 15px;
+    color: #5DBAE7;
+    font-weight: bold;
+}
+
+.admin-sidebar ul li.admin-logo-sidebar a:hover{
+    background: transparent;
+}
+
+.admin-sidebar ul li.admin-logo-sidebar img{
+    margin: 0 10px 0 0;
+    width: 48px;
+}
+
+.admin-sidebar ul li.admin-logo-sidebar a{
+    color: #5DBAE7;
+    font-weight: bold;
+}
+
+.decline-button {
+    background: #EB1653;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .18);
+    color: #fff;
+    text-align: center;
+    padding: 0 30px;
+    width: auto;
+    border: 1px solid rgba(68, 68, 68, .15);
+    border-radius: 3px;
+    line-height: 24px;
+    height: 40px;
+    float: left;
+    margin-right: 30px;
+    font-family: gilroybold;
+}
+
+.admin-right-side ul {
+    float: left;
+    padding: 0;
+    margin: 0 0 0 14px;
+}
+
+.admin-right-side ul li a{
+    float: left;
+    font-size: 14px;
+    color: #424242;
+    text-decoration: underline;
+}
+
+
+
+@media only screen and (max-width: 991px) {
+	.admin-edit-project-section .add-skill-button-block {
+		max-width: 100%;
+	}
+	#update_buyer .form-group input, .admin-right-side label {
+		max-width: 100%;
+	}
+}
+@media only screen and (max-width: 767px) {
+    .export-report {
+        display: inline-block;
+        float: right;
+        margin-bottom: 24px;
+        margin-right: 20px;
+        position: static
+    }
+}
+
+.container {
+    width: 100%;
+    max-width: 1400px;
+}
+
+
+tr {
+    cursor: pointer;
+}
+
+.table-hover > tbody > tr:hover{
+    background-color: #F2F7FB;
+}
+
+.box-style {
+    border: 1px solid #ddd;
+    width: 100%;
+    float: left;
+    margin-bottom: 30px;
+}
+
+.box-inner-tabing{
+    width: 100%;
+    float: left;
+    padding: 10px 20px;
+    border-bottom:1px solid #ddd;
+}
+
+.box-inner-tabing ul{
+    float: left;
+    list-style-type: none;
+    padding:0;
+    margin: 5px 0 0;
+}
+.box-inner-tabing ul li{
+    float: left;
+    padding: 0 0 0 32px;
+}
+
+.box-inner-tabing ul li:first-child{
+    float: left;
+    padding: 0;
+}
+
+.box-inner-tabing ul li a{
+    opacity: 0.48;
+    color: #424242;
+    line-height: 24px;
+    text-decoration: none;
+}
+.box-inner-tabing ul li a:hover, .box-inner-tabing ul li a:focus, .box-inner-tabing ul li a.active{
+    opacity: 0.9;
+    font-family: gilroysemibold;
+}
+
+.box-inner-tabing ul.admin-action-btn {
+    float: right;
+    margin:0;
+}
+
+.box-inner-tabing ul.admin-action-btn li{
+    height: 32px;
+    width: 96px;
+    background: #1E70B7;
+    border-radius: 2px;
+    line-height: 32px;
+}
+
+.box-inner-tabing ul.admin-action-btn li a.dropdown-toggle {
+    color: #fff;
+    line-height: 32px;
+    opacity: 0.9;
+    width: 100%;
+    text-align: center;
+}
+
+.box-inner-tabing ul.admin-action-btn li a span.caret {
+    float: none;
+    width: auto;
+}
+
+.box-inner-tabing ul.admin-action-btn li .dropdown-menu {
+    right: 0;
+    left: auto;
+    min-width: 112px;
+    margin: 0;
+}
+
+.box-inner-tabing ul.admin-action-btn li .dropdown-menu li{
+    background: transparent;
+     width:100%;
+     padding:0;
+}
+
+.box-inner-tabing ul.admin-action-btn li .dropdown-menu li a{
+    color: #424242;
+    line-height: 12px;
+    text-align: right !important;
+}
+
+.box-inner-content {
+    width: 100%;
+    float: left;
+    padding: 20px 20px 5px;
+}
+
+.box-inner-content.communication-inner{
+    padding: 0;
+}
+
+ .admin-right-side label {
+    font-family: 'gilroysemibold';
+    margin: 0;
+}
+
+.basic-info{
+    width: 100%;
+    float: left;
+    border-bottom: 1px solid #ddd;
+    margin: 0 0 24px;
+}
+
+.basic-info .form-group {
+    margin: 0 0 24px;
+}
+
+
+
+.project-left-block .list-group-item .detail-section{
+    width: 100%;
+    float: left;
+}
+
+.project-left-block .list-group-item .detail-section span.seller-name, .project-left-block .list-group-item .detail-section span.time{
+    width:auto;
+}
+
+.project-left-block .list-group-item .detail-section span.seller_job_postion.user-message-notification,
+.project-left-block .list-group-item .detail-section span.seller_job_postion{
+    width: 100%;
+}
+
+.message-timing .date_time, .message-timing .message-time {
+    width: auto;
+}
+
+.no-chat-section{
+    height: 30px;
+}
+
+.chat-top-bar{
+    margin-bottom: 7px;
+}
+
+.seller_message_profile_preview .expert-left-img-msg .profilepicture {
+    height: 80px;
+    width: 80px;
+}
+
+.check-box-design input[type="checkbox"]{
+    left: 0;
+}
+
+.check-box-design label{
+    width: 100%;
+    max-width: 100%;
+}
+
+.waiting-checklist-panel{
+    box-shadow: none;
+}
+
+.seller_message_profile_preview .seller-name{
+    width: 100%;
+}
+
+.admin-right-side .deliverables-list-style ul{
+    margin:0;
+}
+
+.expert-job-profile span {
+    width: auto;
+}
+
+.expert-job-profile span.expert-location {
+    margin-left:14px;
+}
+
+.admin-right-side .profile-display-section .profile-email{
+    text-align: center;
+    width: 100%;
+    float: left;
+}
+
+.expert-profile-section .expert-job-profile {
+       margin: 0 0 12px;
+}
+.expert-profile-section .expert-info-container .decline-button {
+        float: none;
+}
+
+
+
+.contract-inner.box-inner-content {
+    padding: 30px;
+}
+
+.box-style-header {
+    width: 100%;
+    float: left;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    color: #424242;
+    background: #FAFAFA;
+}
+
+.add-time-period span, .add-time-period label {
+    display: block;
+    max-width: 100% !important;
+    width: 100% !important;
+    float: left;
+}
+
+.box-style-header h2{
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0;
+    float: left;
+    color: #424242;
+}
+
+.box-style-header a{
+    	font-size: 14px;	
+        line-height: 20px;
+         color: #424242;
+         text-decoration: underline;
+         opacity: 0.64;
+}
+
+.box-style-body{
+    width:100%;
+    float: left;
+    padding: 20px 20px 4px;
+    color: #424242;
+}
+
+.box-style-body p{
+    font-size: 14px;
+    line-height: 24px;
+    color: #424242;
+    margin: 0 0 16px;
+}
+
+.admin-contract-popup .modal-header{
+    background: #f1f1f1;
+    padding: 30px;
+}
+
+.admin-contract-popup .close {
+    position: absolute;
+    opacity: 0.5 !important;
+}
+
+.admin-contract-popup.lightbox-design .modal-body {
+    padding: 37px 75px 63px;
+}
+
+.admin-contract-popup.lightbox-design .modal-body .input-box{
+  margin: 0 0 35px;  
+}
+
+
+.admin-contract-popup.lightbox-design .modal-body .input-box label{
+    line-height: 26px;
+    color: #424242;
+    margin: 0 0 8px; 
+}
+
+.admin-contract-popup.lightbox-design .modal-body .input-box .project-budget-input input.form-control{
+    height: 57px !important;
+}
+
+.admin-contract-popup.lightbox-design .modal-body .input-box.select-box.rate-section{
+    margin: 0 0 15px;
+}
+
+.hub-admin-right .project-left-block .seller-info {
+     width: 72%; 
+}

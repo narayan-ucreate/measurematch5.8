@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="77px" height="80px" viewBox="0 0 77 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>reviews-emptyState</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="•-Service-Packages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="MM-Expert-MyPackages_Awaiting_Example_1.4" transform="translate(-598.000000, -285.000000)" stroke-width="2">
+            <g id="Group" transform="translate(284.000000, 0.000000)">
+                <g id="Group-3" transform="translate(0.000000, 218.000000)">
+                    <g id="reviews-emptyState" transform="translate(315.000000, 68.000000)">
+                        <path d="M62.4733333,52.3333333 C62.4733333,66.1433333 51.28,77.3333333 37.4733333,77.3333333 C23.6633333,77.3333333 12.4733333,66.1433333 12.4733333,52.3333333 C12.4733333,38.5266667 23.6633333,27.3333333 37.4733333,27.3333333 C51.28,27.3333333 62.4733333,38.5266667 62.4733333,52.3333333 L62.4733333,52.3333333 Z" id="Stroke-6165" stroke="#424242"></path>
+                        <polygon id="Stroke-6166" stroke="#1E70B7" points="37.4733333 37.3333333 42.4733333 47.3333333 52.4733333 47.3333333 44.14 54 47.4733333 65.6666667 37.4733333 59.4133333 27.4733333 65.6666667 30.8066667 54 22.4733333 47.3333333 32.4733333 47.3333333"></polygon>
+                        <polyline id="Stroke-6167" stroke="#424242" stroke-linecap="round" points="54.8006667 23.899 65.8073333 0.665666667 57.474 0.665666667 47.934 20.699"></polyline>
+                        <polyline id="Stroke-6168" stroke="#424242" stroke-linecap="round" points="60.7676667 28.5166667 74.141 0.666666667 65.8076667 0.666666667 54.801 23.9"></polyline>
+                        <polyline id="Stroke-6169" stroke="#424242" stroke-linecap="round" points="20.0026667 23.899 8.99933333 0.665666667 17.3326667 0.665666667 26.876 20.699"></polyline>
+                        <polyline id="Stroke-6170" stroke="#424242" stroke-linecap="round" points="14.0326667 28.5166667 0.666 0.666666667 8.99933333 0.666666667 20.0026667 23.9"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

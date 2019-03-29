@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="12px" viewBox="0 0 8 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>chevron-back</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Contracts--empty" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-266.000000, -74.000000)">
+        <g id="chevron-back" transform="translate(258.000000, 68.000000)" fill="#1D71B8">
+            <polygon id="Shape" points="15.41 7.41 14 6 8 12 14 18 15.41 16.59 10.83 12"></polygon>
+        </g>
+    </g>
+</svg>

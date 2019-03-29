@@ -1,0 +1,480 @@
+<?php
+   $ssl = getenv('APP_SSL');
+   $random_number = getenv('CACHING_COUNTER');
+   ?>
+@extends('layouts.header_buyer')
+@section('content')
+<?php
+   if (isset($_SESSION['page']) && !empty($_SESSION['page'])) {
+       $page = $_SESSION['page'];
+   } else {
+       $page = 0;
+   }
+   $backlink = "http://" . $_SERVER['SERVER_NAME'] . $page;
+   if (isFirstProject() == 0) {
+       $post_project_step3 = 1;
+   } elseif (isFirstProject() == 3) {
+       $post_project_step3 = 3;
+   } else {
+   
+       $post_project_step3 = 0;
+   }
+   ?>
+<div id="wrapper" class="active">
+   <script src="{{url('js/side-menu.js',[],$ssl)}}"></script>   
+   <div id="page-content-wrapper">
+      <div class="page-content inset">
+         
+            <div class="col-md-3 leftSidebar">
+                    <div class="theiaStickySidebar">
+                        @include('buyer.sidemenu')
+                    </div>
+            </div>
+            <div class="col-md-9 rightcontent-panel">
+                <div class="theiaStickySidebar">
+                    
+                       <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
+                          <div class="post-job-content">
+                             <div class="post-job-form-section post-project-form">
+                                @if(Session::has('status'))
+                                <span class="error_msg fade_error_message error-message">{{Session::get('status')}}</span>
+                                @endif
+                                <form class="describe-opportunity" method="post" enctype="multipart/form-data" action="{{ url('/post',[],$ssl)}}">
+                                   {{ csrf_field() }}
+                                   <div class="togglable-tabs-design">
+                                      <ul class="nav nav-tabs">
+                                         <li id="tag-1" class="active">
+                                            @if($post_project_step3 == 0)<a href="javascript:void(0)">Post a Project</a> <span class="form-step">Steps: <span class="step-circle current-step">1</span><span class="step-circle">2</span></span>@else <a href="javascript:void(0)">Post a Project (Step 1/3)</a><span class="form-step">Steps: <span class="step-circle current-step">1</span><span class="step-circle">2</span><span class="step-circle">3</span></span> @endif
+                                         </li>
+                                         <li id="tag-2">@if($post_project_step3 == 0)<a href="javascript:void(0)">Post a Project</a><span class="form-step">Steps: <span class="step-circle">1</span><span class="step-circle current-step">2</span></span>@else <a href="javascript:void(0)">Post a Project (Step 2/3)</a><span class="form-step">Steps: <span class="step-circle">1</span><span class="step-circle current-step">2</span><span class="step-circle">3</span></span> @endif</li>
+                                         <li id="tag-3"><a href="javascript:void(0)">Post a Project</a><span class="form-step">Steps: <span class="step-circle">1</span><span class="step-circle">2</span><span class="step-circle current-step">3</span></span></li>
+                                      </ul>
+                                   </div>
+                                   <div class="divider-green"></div>
+                                   <section class="signup_section_bg">
+                                      {{ csrf_field() }}
+                                      <div id="post_project_first_step">
+                                         <div class="input-bx">
+                                            <label>What would you like to get done? <span class="notification_star_buyer">*</span></label>
+                                            <textarea tabindex="1" name="description" value='{{ old('description') }}' class="add_description" id ="description" maxlength="4000" placeholder="Copy and paste or write your brief here" >@if(isset($project_detail)){{$project_detail}}@else{{ old('description') }}@endif</textarea>
+                                            <div class="error-message validation_error_description{{ $errors->has('description') ? ' has-error' : '' }}"></div>
+                                            @if($errors->has('description')) <span class="error-message help-block airport-error"> {{ $errors->first('description') }} </span> @endif 
+                                         </div>
+                                         <div class="input-bx job-name-bx">
+                                            <label>
+                                               Project title <span class="notification_star_buyer">*</span> 
+                                               <a class="info-icon info-icon-left-arrow">
+                                                  ?
+                                                  <span>
+                                                     It's important to be specific and clear in your project name. Here are a few examples:
+                                                     <ol>
+                                                        <li>Adobe Analytics: Align Desktop & Mobile Report Suites (Fix "Multiple Madness").</li>
+                                                        <li>Marketing Campaign Dashboard In Tableau in 36 Hours!</li>
+                                                        <li>Marketing Automation Tech Consultant; Max Budget: $5,000.</li>
+                                                     </ol>
+                                                  </span>
+                                               </a>
+                                            </label>
+                                            <input tabindex="2" type="text" maxlength="100" size="30" value="@if(isset($project_name)){{$project_name}}@else{{ old('job_title') }}@endif" name="job_title" id="job_title" placeholder="e.g. Data management platform deployment" />
+                                            <div class="error-message validation_error{{ $errors->has('job_title') ? ' has-error' : '' }}"></div>
+                                            @if($errors->has('job_title')) <span class="error-message help-block airport-error "> {{ $errors->first('job_title') }} </span> @endif 
+                                         </div>
+                                         <div class="input-bx">
+                                            <label>Skills (use a comma for separate entries) <span class="notification_star_buyer">*</span></label>                            
+                                            <div class=" add-skill-button-block" >
+                                               <div class="add_another_skill"></div>
+                                               <input tabindex="3" type="text"  id="addskill_manually" class="skill-input"  autocomplete="off" value=""  name="addskill_manually" placeholder="What skills are necessary to successfully complete this project?"/>
+                                               <input type="hidden"  id="manual_skills"  value=""  name="manual_skills" />
+                                            </div>
+                                            <div class="error-message validation_error_add_skills{{ $errors->has('addskill') ? ' has-error' : '' }}"></div>
+                                            @if($errors->has('addskill')) <span class="error-message help-block airport-error"> {{ $errors->first('addskill') }} </span> @endif 
+                                         </div>
+                                         <div class="input-bx select_bx">
+                                            <label>Expert location preference <span class="notification_star_buyer">*</span></label>
+                                            <select tabindex="4" class="selectpicker select-dropdown-style rate_select" name="remote_work" id="remote_work">
+                                               <option value="">Choose preference</option>
+                                               <option value="1" {{ (old("remote_work") == 1 ?"selected":"") }}>Only work remotely</option>
+                                               <option value="2" {{ (old("remote_work") == 2 ?"selected":"") }}>Only work on site</option>
+                                               <option value="3" {{ (old("remote_work") == 3 ?"selected":"") }}>Can work remotely and on site</option>
+                                            </select>
+                                            <div class="error-message validation_error_remote_work{{ $errors->has('remote_work') ? ' has-error' : '' }}"></div>
+                                         </div>
+                                         <div class="input-bx">
+                                            <input id="saveAndContinue" type="button" value="Save & Continue"  class="continue-btn green_gradient standard-btn" />
+                                            <span class="muted-text">You can edit these project details later by the way.</span>
+                                         </div>
+                                      </div>
+                                   </section>
+                                   <section class="signup_section_bg post-job-second-block">
+                                      <div id="post_project_second_step" style="display:none">
+                                         <div>
+                                            <div class="divider-green"></div>
+                                         </div>
+                                         <div class="clerfix"></div>
+                                         <div class="input-bx guide-budget-input-bx">
+                                            <div class="job-input-bx select_bx input-group date job-date-picker" id='start_time_div'>
+                                               <label class="estimated-duration-lbl">Estimated Project Duration <span class="notification_star_buyer">*</span></label>  
+                                               <input tabindex="5" type="tel" name="project_duration"  maxlength="3" class="form-control input-group-addon" pattern="[0-9.]*" id="project_duration"  placeholder="Enter number of days">
+                                               <div class="error-message validation_error_project_duration{{ $errors->has('project_duration') ? ' has-error' : '' }}"></div>
+                                            </div>
+                                            <div class="job-input-bx select_bx input-group date job-date-picker" id='end_time_div'>
+                                               <label>Hiring Deadline <span class="notification_star_buyer">*</span></label>
+                                               <input tabindex="6"  type="text" class="form-control input-group-addon" value="{{ old('end_time') }}" placeholder="Click to add date" id="end_time" name="end_time" readonly />                                
+                                               <div class="error-message validation_error_end_time{{ $errors->has('end_time') ? ' has-error' : '' }}"></div>
+                                               @if($errors->has('end_time')) <span class="help-block airport-error error-message"> {{ $errors->first('end_time') }} </span> @endif 
+                                            </div>
+                                         </div>
+                                         <div class="rate-section radio-button-style input-bx">
+                                            <div class="radio-button-style">
+                                               <input tabindex="7"  type="radio" name="budget" id="budget" value="yes" checked>
+                                               <label for="budget"><span><span></span></span>Estimated guide budget (optional) </label>
+                                            </div>
+                                            <a class="info-icon info-icon-left-arrow">? <span>This is a guide value for Experts to consider and negotiate; this is not a fixed project budget commitment. You can change it or negotiate it with MeasureMatch Experts at any time until a commercial framework is locked into an agreement.</span></a>
+                                            <input type="hidden" name="rate_variable" id="rate_variable" value="Fixed Price" >
+                                            <div class="post-rate-input-bx">
+                                               <div class="input-group post-rate">
+                                                  <span class="input-group-addon">$</span><input tabindex="8" type="text" maxlength="6" size="30"  name="rate" value="{{ old('rate') }}" id="rate" placeholder="Minimum budget $200" />
+                                               </div>
+                                               <div class="error-message clearfix validation_error_rate{{ $errors->has('rate') ? ' has-error' : '' }}"></div>
+                                               <div class="validation_error_price error-message"></div>
+                                               @if($errors->has('rate')) <span class="help-block airport-error error-message"> {{ $errors->first('rate') }} </span> @endif
+                                            </div>
+                                         </div>
+                                         <div class="radio-button-style option-budget-inputbx input-bx">
+                                            <input tabindex="10"  type="radio" name="budget" id="budget1" value="no">
+                                            <label for="budget1"><span><span></span></span> I don't know my budget</label>
+                                         </div>
+                                         <div class="clerfix"></div>
+                                         <div class="input-bx estimate-budget-section">
+                                            <div class="budget-breakdown-blcok" id='est_budget_div'>
+                                               <h3>Estimated Budget Breakdown</h3>
+                                               <span>85% paid to Expert <span class="paid_exp">-</span></span>
+                                               <span>15% paid to MeasureMatch <span class="paid_mm">-</span></span>
+                                            </div>
+                                         </div>
+                                         <input type="hidden" name="radio" value="1" >
+                                         <div class="clearfix btn-panel">
+                                            <input type="hidden" id="publish" name="publish" value="0">
+                                            <?php
+                                               if ($post_project_step3 == 0) {
+                                                   ?>
+                                            <input tabindex="11" class="continue-btn green_gradient standard-btn"  type="button" id="back_to_step_1" value="Back" >                                                
+                                            <input tabindex="12"  class="continue-btn green_gradient standard-btn" type="button" id="publish_submit" value="Publish project" >
+                                            <input tabindex="13"  class="white-bg-btn preview white-btn"  type="submit" id="postsubmit" value="Preview This Project" >
+                                            <input type="hidden" id="buyer_data_availabel" name="buyer_data_availabel" value="1">
+                                            <?php } elseif ($post_project_step3 == 3) {
+                                               ?>
+                                            <input tabindex="14" class="continue-btn green_gradient standard-btn"  type="button" id="back_to_step_1" value="Back" >
+                                            <input tabindex="15" class="continue-btn green_gradient standard-btn" type="button" id="show-3rd-step" value="Save and Continue">
+                                            <input tabindex="16" type="hidden" id="buyer_data_availabel" name="buyer_data_availabel" value="3">
+                                            <?php } else {
+                                               ?>
+                                            <input tabindex="17" class="continue-btn green_gradient standard-btn"  type="button" id="back_to_step_1" value="Back" >
+                                            <input tabindex="18" class="continue-btn green_gradient standard-btn" type="button" id="show-3rd-step" value="Save and Continue">
+                                            <input tabindex="19" type="hidden" id="buyer_data_availabel" name="buyer_data_availabel" value="0">
+                                            <?php } ?>
+                                            <span class="muted-text">You can edit these project details later by the way.</span>
+                                         </div>
+                                      </div>
+                                   </section>
+                                   <section class="signup_section_bg post-job-second-block">
+                                      <div id="post_project_third_step" style="display:none">
+                                         {{ csrf_field() }}
+                                         <div>
+                                            <div class="divider-green"></div>
+                                         </div>
+                                         <div class="clerfix"></div>
+                                         <div class="input-bx">
+                                            <label>Company name <span class="notification_star_buyer">*</span></label>
+                                            <input tabindex="20" name="company_name" type="text" maxlength="60" size="30" value="@if(isset($buyer_detail[0]->company_name) && !empty($buyer_detail[0]->company_name)){{$buyer_detail[0]->company_name}} @endif" placeholder="e.g Salesforce" id="company_name" />
+                                            <div class="validation_error1 error-message" id="company_name_error"></div>
+                                            @if ($errors->has('company_name'))
+                                            <span class="validation_error">{{ $errors->first('company_name') }}</span>
+                                            @endif
+                                         </div>
+                                         <div class="input-bx">
+                                            <?php
+						$type_of_organization = '';
+                                               if (isset($buyer_detail[0]->type_of_organization) && !empty($buyer_detail[0]->type_of_organization)) {
+                                                   $type_of_organization = $type_of_org_list[$buyer_detail[0]->type_of_organization];
+                                               } else {
+                                                   $type_of_organization = '';
+                                               }
+						$type_of_organization = $type_of_org_list[$buyer_detail[0]->type_of_organization]??'';
+                                               ?>
+                                            <div class="select_bx custom-dropdown-style @if($type_of_organization){{'textcolorchange'}}@endif">
+                                               <label>Select your organization type <span class="notification_star">*</span></label>
+                                               @if ($errors->has('type_of_organization')) <span class="help-block"> <strong>{{ $errors->first('type_of_organization') }}</strong> </span> @endif
+                                               <select tabindex="21" placeholder="Choose organization type" class="selectpicker select-dropdown-style" name="type_of_organization" id="type_of_organization">
+                                                  <option value="">Choose</option>
+                                                  @foreach($type_of_org_list as $type_of_org_id => $type_of_org_value)
+                                                  @if($type_of_org_value != 'Other Industry')
+                                                  <option value="{{$type_of_org_value}}" @if($type_of_org_value==$type_of_organization) selected="selected" @endif >{{$type_of_org_value}}</option>
+                                                  @endif
+                                                  @endforeach
+                                                  <option value="Other Industry">Other Industry</option>
+                                               </select>
+                                               <div class="validation_error error-message" id="type_of_org_error"></div>
+                                            </div>
+                                         </div>
+                                         <div class="input-bx account_info new-custom-dropdown-style">
+                                            <label>Location of office<span class="notification_star_buyer">*</span></label>
+                                            <input id="add_office_location"  name="office_location" tabindex="8"  placeholder="e.g. London" value="@if(isset($buyer_detail[0]->office_location) && !empty($buyer_detail[0]->office_location)){{$buyer_detail[0]->office_location}} @endif" type="text" maxlength="40" class=" input-error-message" autocomplete="off">
+                                            <div   id="office_location_tags" class="dropdown"></div>
+                                         </div>
+                                         <div class="clerfix"></div>
+                                         <div class="clearfix btn-panel">                                        
+                                            <input tabindex="22" class="continue-btn green_gradient standard-btn"  type="button" id="back_to_step_2" value="Back" >                                        
+                                            <input tabindex="23" class="continue-btn green_gradient standard-btn" type="submit" id="postsubmit" value="Publish project" >
+                                            <input tabindex="24" class="white-bg-btn 3_step_preview white-btn"  type="button" id="post_preview_3rdstep" value="Preview This Project" >         
+                                         </div>
+                                </form>
+                                </div>
+                                </section>
+                             </div>
+                          </div>
+                       </div>
+                       <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+                          <div class="draft-post-block">
+                             <h4>Drafts</h4>
+                             <div class="auto-scroll">
+                                @if(count($drafts))
+                                @foreach($drafts as $draft)
+                                <div class="draft-post"><a href="{{url('editpost/'.$draft['id'],[],$ssl)}}"><span class="posted-job-title">{{ucfirst($draft['job_title'])}}</span><span class="job-location"><?php
+                                   if (!empty($project_location)) {
+                                       echo $project_location[0];
+                                   }
+                                   ?></span></a></div>
+                                @endforeach
+                                @else
+                                <div class="draft-post no-draft-message"><span>You have no drafts.</span></div>
+                                @endif 
+                             </div>
+                          </div>
+                       </div>
+                       <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+                          <div class="draft-post-block">
+                             <h4>Posted projects</h4>
+                             <div class="auto-scroll">
+                                @if(count($posted_jobs))
+                                @foreach($posted_jobs as $posted_job)
+                                <div class="draft-post"><a href="{{url('buyer/project-progress/'.$posted_job['id'],[],$ssl)}}" ><span class="posted-job-title">{{ucfirst($posted_job['job_title'])}}</span><span class="job-location"><?php
+                                   if (!empty($project_location)) {
+                                       echo $project_location[0];
+                                   }
+                                   ?></span></a></div>
+                                @endforeach
+                                @else
+                                <div class="draft-post no-draft-message"><span>No projects at the moment.</span></div>
+                                @endif
+                             </div>
+                          </div>
+                       </div>
+                    
+                </div>
+            </div>
+         
+      </div>
+   </div>
+</div>
+@if(app('request')->input('preview') == 'job')
+<?php $publish_status = $job_preview[0]['publish']; ?>
+<div class="modal fade post-job-popup post-project-popup home-post-project porject-preview lightbox-design lightbox-design-small" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+   <div class="modal-dialog" role="document">
+      <div class="modal-innner-content">
+         <div class="modal-content">
+            <div class="modal-header">
+               <button aria-label="Close" data-dismiss="modal" data-project="project-{{$job_preview[0]['id']}}" class="close @if($publish_status==3) dump_project  @endif" type="button"><span aria-hidden="true"><img alt="cross" src="{{ url('images/cross-black.svg',[],$ssl) }}"></span></button>
+            </div>
+            <div class="modal-body">
+               <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 popup-no-padding">
+                  <div class="project-preview-name">
+                     <h5>Project Name</h5>
+                     <div class="bottom-border"></div>
+                     <p>{!! $job_preview[0]['job_title'] !!}</p>
+                  </div>
+                  <div class="preview-company-name">
+                     <h5>Company Name</h5>
+                     <div class="bottom-border"></div>
+                     @foreach($post_company as $company)
+                     <p class="project-company-name">{{ ucfirst($company->company_name) }}</p>
+                     @endforeach
+                  </div>
+                  <div class="project-description">
+                     <h5>Description of Project</h5>
+                     <div class="bottom-border"></div>
+                     @if(strlen($job_preview[0]['description']) > 257)
+                     <p id="truncated_description">{!! str_limit(ucfirst($job_preview[0]['description']), 257) !!}<a href="javascript:void(0)" id="show_more"> Show more</a></p>
+                     <p id="full_description" style="display: none;">{!! nl2br(e($job_preview[0]['description'])) !!}<a href="javascript:void(0)" id="show_less"> Show less</a></p>
+                     @else
+                     <p>{!! nl2br(e($job_preview[0]['description'])) !!}</p>
+                     @endif
+                  </div>
+                  <div class="skills-section">
+                     <h5>Skills and Technologies</h5>
+                     <div class="bottom-border"></div>
+                     @if(isset($job_preview[0]['jobsskill']))
+                     @foreach($job_preview[0]['jobsskill'] as $s=>$skill)
+                     <?php
+                        $skill_name = $skill['skill']['name'];
+                        ?>
+                     <span class="job_skill">{{$skill_name}}</span>
+                     @endforeach
+                     @endif
+                  </div>
+               </div>
+               <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 popup-no-padding">
+                  <div class="row">
+                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 job-preview-rate">
+                        <h5>Estimated Project Budget</h5>
+                        <div class="bottom-border"></div>
+                        <span class="job-price">@if($job_preview[0]['rate']!=0){{$job_preview[0]['currency']}} {{((is_numeric($job_preview[0]['rate'])) ? number_format($job_preview[0]['rate'],2) : $job_preview[0]['rate'])}}@else{{'Negotiable'}} @endif</span>
+                     </div>
+                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 project-number">
+                        <h5>Project number</h5>
+                        <div class="bottom-border"></div>
+                        <p>@if(!empty($job_preview[0]['job_num'])) {{$job_preview[0]['job_num']}} @endif</p>
+                     </div>
+                     <div class="clerfix"></div>
+                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 number-of-days">
+                        <h5>Estimated Project Duration</h5>
+                        <div class="bottom-border"></div>
+                        <?php
+                           $project_duration = isset($job_preview[0]['project_duration']) ? $job_preview[0]['project_duration'] . ' Days' : 'N/A';
+                           ?>
+                        <div class="no-project-duration"><?php echo $project_duration; ?></div>
+                     </div>
+                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 project-expire-date">
+                        <h5>Hiring Deadline</h5>
+                        <div class="bottom-border"></div>
+                        <div class="job-preview-date"><?php $end_date = $job_preview[0]['job_end_date']; ?>
+                           <span><?php echo date('d M y', strtotime($end_date)) ?></span>
+                        </div>
+                     </div>
+                     <div class="clerfix"></div>
+                     @if(!empty($job_preview[0]['remote']['name']))
+                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 location-preference">
+                        <h5>Location preference</h5>
+                        <div class="bottom-border"></div>
+                        <p>{{$job_preview[0]['remote']['name']}}</p>
+                     </div>
+                     @endif                      
+                     <div class="clerfix"></div>
+                  </div>
+               </div>
+            </div>
+            <?php
+               if ($publish_status == 1) {
+                   ?> 
+            <div class="modal-footer">
+               <div class="job-prview-footer">
+                  <form method="post" name="close_refresh" id="close_refresh" action="{{url('/updatepublish',[],$ssl)}}" enctype="multipart/form-data" >
+                     {{ csrf_field()}}
+                     <input type="hidden" name="post_id" value="{{ $job_preview[0]['id'] }}">
+                     <input tabindex="25" class="blue-bg-btn green-gradient standard-btn" type="submit" name="submit" value="Update Project">
+                     <input type="hidden" name="redirect_page" value="<?php
+                        if (isset($_REQUEST['redirect_page'])) {
+                            echo $_REQUEST['redirect_page'];
+                        }
+                        ?>">
+                  </form>
+                  <button type="button" class="white-bg-btn white-btn" onClick="editPost()" data-dismiss="modal">Edit Project</button>
+               </div>
+            </div>
+            <?php } else { ?>
+            <div class="modal-footer">
+               <div class="job-prview-footer">
+                  <form method="post" name="close_refresh" id="close_refresh" action="{{url('/updatepublish',[],$ssl)}}" enctype="multipart/form-data" >
+                     {{ csrf_field()}}
+                     <input type="hidden" name="post_id" value="{{ $job_preview[0]['id'] }}">
+                     @if($publish_status!=3)
+                     <input tabindex="26" class="blue-bg-btn green-gradient standard-btn" type="submit" name="submit" value="Publish">
+                     <input type="hidden" name="redirect_page" value="<?php
+                        if (isset($_REQUEST['redirect_page'])) {
+                            echo $_REQUEST['redirect_page'];
+                        }
+                        ?>">
+                     @endif
+                  </form>
+                  <button tabindex="27" type="button" class="white-bg-btn @if($publish_status==3) standard-btn @else white-btn @endif" onClick="editPost()" data-dismiss="modal">Edit Project</button>
+                  @if($publish_status!=3)
+                  <button tabindex="28" type="button" class="white-bg-btn white-btn" onClick="CloseAndDraft()" data-dismiss="modal">Save Draft</button>
+                  @else
+                  <button tabindex="29" type="button" class="white-bg-btn white-btn" onClick="save_project_changes({{$job_preview[0]['id']}})" data-dismiss="modal">Save Changes</button>
+                  @endif
+               </div>
+            </div>
+            <?php } ?>
+         </div>
+      </div>
+   </div>
+</div>
+@endif
+<div class="modal fade post-job-popup post-project-popup home-post-project porject-preview lightbox-design lightbox-design-small" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+   <div class="modal-dialog" role="document">
+      <div class="modal-innner-content">
+         <div class="modal-content">
+            <div class="modal-header">
+               <button aria-label="Close" data-dismiss="modal" class="close" type="button"><span aria-hidden="true"><img alt="cross" src="{{ url('images/cross-black.svg',[],$ssl) }}"></span></button>             
+            </div>
+            <div class="modal-body">
+               <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 popup-no-padding">
+                  <div class="project-preview-name">
+                     <h5>Project Name</h5>
+                     <div class="bottom-border"></div>
+                     <p id="preview_job_title"> title</p>
+                  </div>
+                  <div class="project-description">
+                     <h5>Description of Project</h5>
+                     <div class="bottom-border"></div>
+                     <p id="preview_job_description"></p>
+                     <p id="preview_job_full_description" style="display: none;"></p>
+                  </div>
+                  <div class="skills-section">
+                     <h5>Skills and Technologies</h5>
+                     <div class="bottom-border"></div>
+                     <div id="preview_job_skill">
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 popup-no-padding">
+                  <div class="row">
+                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 job-preview-rate">
+                        <h5>Estimated Project Budget</h5>
+                        <div class="bottom-border"></div>
+                        <span  id="preview_job_price" class="job-price"></span>
+                     </div>
+                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 location-preference">
+                        <h5>Location preference</h5>
+                        <div class="bottom-border"></div>
+                        <p id="preview_remote_work"></p>
+                     </div>
+                     <div class="clerfix"></div>
+                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 number-of-days">
+                        <h5>Estimated Project Duration</h5>
+                        <div class="bottom-border"></div>
+                        <div id="preview_job_duration" class="job-preview-date"><span-</span></div>
+                     </div>
+                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 project-expire-date">
+                        <h5>hiring Deadline</h5>
+                        <div class="bottom-border"></div>
+                        <div id="preview_job_date" class="job-preview-date"><span-</span></div>
+                     </div>
+                     <div class="clerfix"></div>
+                  </div>
+               </div>
+            </div>
+            <div class="modal-footer">
+               <div class="job-prview-footer">
+                  <input tabindex="30" class="blue-bg-btn green-gradient standard-btn" type="button" id="publish_submit" value="Publish project" >
+                  <button type="button"  id="post_preview_edit" class="white-bg-btn  white-btn" onClick="" data-dismiss="modal">Edit Project</button>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+@include('layouts.footer')
+<script src="{{ url('js/post.js?js='.$random_number,[],$ssl) }}"></script>
+@endsection
+

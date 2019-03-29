@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Scroll down button</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 2.31707319e-05 0 18.7249866 23.8354691 18.7249866 23.8354691 2.31707319e-05 0 2.31707319e-05"></polygon>
+    </defs>
+    <g id="•-Landing-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MM_landing_opt4" transform="translate(-615.000000, -615.000000)">
+            <g id="Scroll-down-button" transform="translate(615.000000, 615.000000)">
+                <circle id="Oval" fill="#36A9E1" cx="25" cy="25" r="25"></circle>
+                <g id="Group" transform="translate(25.000000, 25.500000) rotate(-180.000000) translate(-25.000000, -25.500000) translate(13.000000, 16.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M23.6446691,12.1652366 L17.4408873,5.57687073 L15.0347782,3.02160244 L13.5306327,4.61852927 L15.0343418,3.02160244 L12.3803782,0.20265122 C12.1259782,-0.0675195122 11.7092509,-0.0675195122 11.4548509,0.20265122 L6.39434182,5.57687073 L0.190996364,12.1652366 C-0.06384,12.4354073 -0.06384,12.8779683 0.190996364,13.148139 L5.25106909,18.5223585 C5.50590545,18.7925293 5.92219636,18.7925293 6.17659636,18.5223585 L8.83099636,15.7038707 L8.83099636,15.7038707 L11.9178327,12.4256756 L15.0347782,15.7353829 L18.1512873,12.4256756 L18.1512873,12.4256756 L15.0347782,15.7353829 L17.6586327,18.5218951 C17.9134691,18.7925293 18.32976,18.7925293 18.58416,18.5218951 L21.23856,15.7034073 L21.23856,15.7034073 L23.6446691,13.148139 C23.8990691,12.8779683 23.8990691,12.4354073 23.6446691,12.1652366" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
